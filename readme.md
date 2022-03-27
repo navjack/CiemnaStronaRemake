@@ -13,4 +13,4 @@ Ciemna Strona is a Polish developed point and click adventure game for the Amiga
 
 In its current state on the Amiga, it is unable to be completed. You must resort to modifications of the game to do so. But recently a group of people online were able to complete it and they have documented the ending and the steps required to get there. This will hopefully be the modernization effort that will be able to bring this game to a wider audience with a fully working version of the game.
 
-More details and license information will be coming soon.
+More details and license information will be coming soon. (but in the meantime... consider everything here like public, like, i LITERALLY dont give a fuck what you do with anything here and i will gladly accept any requests that are forward progress)
