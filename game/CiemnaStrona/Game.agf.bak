@@ -3076,7 +3076,7 @@ stop
                     <Sprites>
                       <Sprite Slot="9" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\9</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3091,7 +3091,7 @@ stop
                       </Sprite>
                       <Sprite Slot="10" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\10</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3106,7 +3106,7 @@ stop
                       </Sprite>
                       <Sprite Slot="11" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\11</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3121,7 +3121,7 @@ stop
                       </Sprite>
                       <Sprite Slot="12" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\12</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3136,7 +3136,7 @@ stop
                       </Sprite>
                       <Sprite Slot="13" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\13</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3151,7 +3151,7 @@ stop
                       </Sprite>
                       <Sprite Slot="14" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\14</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3166,7 +3166,7 @@ stop
                       </Sprite>
                       <Sprite Slot="15" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\15</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3181,7 +3181,7 @@ stop
                       </Sprite>
                       <Sprite Slot="16" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\16</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3196,7 +3196,7 @@ stop
                       </Sprite>
                       <Sprite Slot="17" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\17</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3211,7 +3211,7 @@ stop
                       </Sprite>
                       <Sprite Slot="18" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\18</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3226,7 +3226,7 @@ stop
                       </Sprite>
                       <Sprite Slot="19" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\19</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3241,7 +3241,7 @@ stop
                       </Sprite>
                       <Sprite Slot="20" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\20</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3256,7 +3256,7 @@ stop
                       </Sprite>
                       <Sprite Slot="21" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\21</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3271,7 +3271,7 @@ stop
                       </Sprite>
                       <Sprite Slot="22" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\22</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3286,7 +3286,7 @@ stop
                       </Sprite>
                       <Sprite Slot="23" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\23</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3301,7 +3301,7 @@ stop
                       </Sprite>
                       <Sprite Slot="24" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\24</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3316,7 +3316,7 @@ stop
                       </Sprite>
                       <Sprite Slot="25" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\25</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3331,7 +3331,7 @@ stop
                       </Sprite>
                       <Sprite Slot="26" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\26</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3346,7 +3346,7 @@ stop
                       </Sprite>
                       <Sprite Slot="27" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\27</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3361,7 +3361,7 @@ stop
                       </Sprite>
                       <Sprite Slot="28" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\28</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3376,7 +3376,7 @@ stop
                       </Sprite>
                       <Sprite Slot="29" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\29</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3391,7 +3391,7 @@ stop
                       </Sprite>
                       <Sprite Slot="30" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\30</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3406,7 +3406,7 @@ stop
                       </Sprite>
                       <Sprite Slot="31" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\31</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3421,7 +3421,7 @@ stop
                       </Sprite>
                       <Sprite Slot="32" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\32</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3441,7 +3441,7 @@ stop
                     <Sprites>
                       <Sprite Slot="33" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Talk\33</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3456,7 +3456,7 @@ stop
                       </Sprite>
                       <Sprite Slot="34" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Talk\34</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3471,7 +3471,7 @@ stop
                       </Sprite>
                       <Sprite Slot="35" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Talk\35</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3486,7 +3486,7 @@ stop
                       </Sprite>
                       <Sprite Slot="36" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Talk\36</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3501,7 +3501,7 @@ stop
                       </Sprite>
                       <Sprite Slot="37" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Talk\37</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3516,7 +3516,7 @@ stop
                       </Sprite>
                       <Sprite Slot="38" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Talk\38</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3531,7 +3531,7 @@ stop
                       </Sprite>
                       <Sprite Slot="39" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Talk\39</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3546,7 +3546,7 @@ stop
                       </Sprite>
                       <Sprite Slot="40" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Talk\40</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3561,7 +3561,7 @@ stop
                       </Sprite>
                       <Sprite Slot="41" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Talk\41</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3576,7 +3576,7 @@ stop
                       </Sprite>
                       <Sprite Slot="42" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Talk\42</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3591,7 +3591,7 @@ stop
                       </Sprite>
                       <Sprite Slot="43" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Talk\43</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3606,7 +3606,7 @@ stop
                       </Sprite>
                       <Sprite Slot="44" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Talk\44</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3621,7 +3621,7 @@ stop
                       </Sprite>
                       <Sprite Slot="45" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Talk\45</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3636,7 +3636,7 @@ stop
                       </Sprite>
                       <Sprite Slot="46" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Talk\46</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3651,7 +3651,7 @@ stop
                       </Sprite>
                       <Sprite Slot="47" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Talk\47</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3666,7 +3666,7 @@ stop
                       </Sprite>
                       <Sprite Slot="48" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Talk\48</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3681,7 +3681,7 @@ stop
                       </Sprite>
                       <Sprite Slot="49" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Talk\49</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
@@ -3696,7 +3696,7 @@ stop
                       </Sprite>
                       <Sprite Slot="50" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName />
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Talk\50</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
                           <ImportHeight>50</ImportHeight>
