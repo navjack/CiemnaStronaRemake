@@ -16,6 +16,7 @@ Just clone this repo there or download the zip of it and put it there so you end
 
 ### Ideas & Goals
 
+* TRANSLATE TEXT
 * Recreate the game's main path from start to finish with no side areas or items or "quests"
 * The game should be beatable following the SANCTIFIED walkthrough
 * After that we fill out all the extra items and rooms
