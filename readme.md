@@ -1,5 +1,7 @@
 # Ciemna Strona Remake
 
+## Developer stuff
+
 Data folder contains asset creation stuff, and the game folder contains the Adventure Game Studio project files.
 
 Everything should be happy if you put it in "C:\ciemna strona"
@@ -11,6 +13,14 @@ just clone this repo there or download the zip of it and put it there so you end
 `C:\ciemna strona\game\*.*`
 
 `C:\ciemna strona\readme.md`
+
+### Ideas & Goals
+
+* Recreate the game's main path from start to finish with no side areas or items or "quests"
+* The game should be beatable following the SANCTIFIED walkthrough
+* After that we fill out all the extra items and rooms
+* Dynamic music system using the multitrack files of the original music to create tension or have a “hot / cold” hint system
+* Censor scenes for stream safe setting
 
 # What?
 
