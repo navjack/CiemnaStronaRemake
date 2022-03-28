@@ -64,7 +64,7 @@
       <ThoughtGUI>0</ThoughtGUI>
       <BackwardsText>False</BackwardsText>
       <MaximumScore>0</MaximumScore>
-      <HasMODMusic>False</HasMODMusic>
+      <HasMODMusic>True</HasMODMusic>
       <DefaultRoomMaskResolution>1</DefaultRoomMaskResolution>
       <GameExplorerEnabled>False</GameExplorerEnabled>
       <Description />
@@ -78,7 +78,7 @@
       <SaveGameFileExtension />
       <SaveGameFolderName xml:space="preserve">Ciemna Strona</SaveGameFolderName>
       <BinaryFilesInSourceControl>False</BinaryFilesInSourceControl>
-      <AudioIndexer>0</AudioIndexer>
+      <AudioIndexer>8</AudioIndexer>
       <BuildTargets>Windows</BuildTargets>
       <RenderAtScreenResolution>False</RenderAtScreenResolution>
     </Settings>
@@ -3106,12 +3106,12 @@ stop
                   <SpriteFolder Name="walk">
                     <SubFolders />
                     <Sprites>
-                      <Sprite Slot="9" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="9" Width="25" Height="61" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\9</FileName>
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\9.png</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
-                          <ImportHeight>50</ImportHeight>
+                          <ImportHeight>61</ImportHeight>
                           <ImportWidth>25</ImportWidth>
                           <ImportAsTile>False</ImportAsTile>
                           <Frame>0</Frame>
@@ -3121,12 +3121,12 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="10" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="10" Width="25" Height="61" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\10</FileName>
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\10.png</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
-                          <ImportHeight>50</ImportHeight>
+                          <ImportHeight>61</ImportHeight>
                           <ImportWidth>25</ImportWidth>
                           <ImportAsTile>False</ImportAsTile>
                           <Frame>0</Frame>
@@ -3136,12 +3136,12 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="11" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="11" Width="25" Height="61" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\11</FileName>
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\11.png</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
-                          <ImportHeight>50</ImportHeight>
+                          <ImportHeight>61</ImportHeight>
                           <ImportWidth>25</ImportWidth>
                           <ImportAsTile>False</ImportAsTile>
                           <Frame>0</Frame>
@@ -3151,12 +3151,12 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="12" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="12" Width="25" Height="61" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\12</FileName>
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\12.png</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
-                          <ImportHeight>50</ImportHeight>
+                          <ImportHeight>61</ImportHeight>
                           <ImportWidth>25</ImportWidth>
                           <ImportAsTile>False</ImportAsTile>
                           <Frame>0</Frame>
@@ -3166,12 +3166,12 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="13" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="13" Width="25" Height="61" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\13</FileName>
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\13.png</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
-                          <ImportHeight>50</ImportHeight>
+                          <ImportHeight>61</ImportHeight>
                           <ImportWidth>25</ImportWidth>
                           <ImportAsTile>False</ImportAsTile>
                           <Frame>0</Frame>
@@ -3181,12 +3181,12 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="14" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="14" Width="25" Height="61" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\14</FileName>
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\14.png</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
-                          <ImportHeight>50</ImportHeight>
+                          <ImportHeight>61</ImportHeight>
                           <ImportWidth>25</ImportWidth>
                           <ImportAsTile>False</ImportAsTile>
                           <Frame>0</Frame>
@@ -3196,12 +3196,27 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="15" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="15" Width="31" Height="59" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\15</FileName>
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\15.png</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
-                          <ImportHeight>50</ImportHeight>
+                          <ImportHeight>59</ImportHeight>
+                          <ImportWidth>31</ImportWidth>
+                          <ImportAsTile>False</ImportAsTile>
+                          <Frame>0</Frame>
+                          <RemapToGamePalette>False</RemapToGamePalette>
+                          <RemapToRoomPalette>False</RemapToRoomPalette>
+                          <ImportMethod>LeaveAsIs</ImportMethod>
+                          <ImportAlphaChannel>False</ImportAlphaChannel>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="16" Width="25" Height="62" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\16.png</FileName>
+                          <OffsetX>0</OffsetX>
+                          <OffsetY>0</OffsetY>
+                          <ImportHeight>62</ImportHeight>
                           <ImportWidth>25</ImportWidth>
                           <ImportAsTile>False</ImportAsTile>
                           <Frame>0</Frame>
@@ -3211,12 +3226,12 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="16" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="17" Width="25" Height="60" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\16</FileName>
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\17.png</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
-                          <ImportHeight>50</ImportHeight>
+                          <ImportHeight>60</ImportHeight>
                           <ImportWidth>25</ImportWidth>
                           <ImportAsTile>False</ImportAsTile>
                           <Frame>0</Frame>
@@ -3226,12 +3241,27 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="17" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="18" Width="31" Height="59" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\17</FileName>
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\18.png</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
-                          <ImportHeight>50</ImportHeight>
+                          <ImportHeight>59</ImportHeight>
+                          <ImportWidth>31</ImportWidth>
+                          <ImportAsTile>False</ImportAsTile>
+                          <Frame>0</Frame>
+                          <RemapToGamePalette>False</RemapToGamePalette>
+                          <RemapToRoomPalette>False</RemapToRoomPalette>
+                          <ImportMethod>LeaveAsIs</ImportMethod>
+                          <ImportAlphaChannel>False</ImportAlphaChannel>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="19" Width="25" Height="62" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\19.png</FileName>
+                          <OffsetX>0</OffsetX>
+                          <OffsetY>0</OffsetY>
+                          <ImportHeight>62</ImportHeight>
                           <ImportWidth>25</ImportWidth>
                           <ImportAsTile>False</ImportAsTile>
                           <Frame>0</Frame>
@@ -3241,12 +3271,12 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="18" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="20" Width="25" Height="60" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\18</FileName>
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\20.png</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
-                          <ImportHeight>50</ImportHeight>
+                          <ImportHeight>60</ImportHeight>
                           <ImportWidth>25</ImportWidth>
                           <ImportAsTile>False</ImportAsTile>
                           <Frame>0</Frame>
@@ -3256,12 +3286,27 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="19" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="21" Width="31" Height="59" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\19</FileName>
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\21.png</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
-                          <ImportHeight>50</ImportHeight>
+                          <ImportHeight>59</ImportHeight>
+                          <ImportWidth>31</ImportWidth>
+                          <ImportAsTile>False</ImportAsTile>
+                          <Frame>0</Frame>
+                          <RemapToGamePalette>False</RemapToGamePalette>
+                          <RemapToRoomPalette>False</RemapToRoomPalette>
+                          <ImportMethod>LeaveAsIs</ImportMethod>
+                          <ImportAlphaChannel>False</ImportAlphaChannel>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="22" Width="25" Height="62" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\22.png</FileName>
+                          <OffsetX>0</OffsetX>
+                          <OffsetY>0</OffsetY>
+                          <ImportHeight>62</ImportHeight>
                           <ImportWidth>25</ImportWidth>
                           <ImportAsTile>False</ImportAsTile>
                           <Frame>0</Frame>
@@ -3271,12 +3316,12 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="20" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="23" Width="25" Height="60" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\20</FileName>
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\23.png</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
-                          <ImportHeight>50</ImportHeight>
+                          <ImportHeight>60</ImportHeight>
                           <ImportWidth>25</ImportWidth>
                           <ImportAsTile>False</ImportAsTile>
                           <Frame>0</Frame>
@@ -3286,12 +3331,27 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="21" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="24" Width="31" Height="59" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\21</FileName>
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\24.png</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
-                          <ImportHeight>50</ImportHeight>
+                          <ImportHeight>59</ImportHeight>
+                          <ImportWidth>31</ImportWidth>
+                          <ImportAsTile>False</ImportAsTile>
+                          <Frame>0</Frame>
+                          <RemapToGamePalette>False</RemapToGamePalette>
+                          <RemapToRoomPalette>False</RemapToRoomPalette>
+                          <ImportMethod>LeaveAsIs</ImportMethod>
+                          <ImportAlphaChannel>False</ImportAlphaChannel>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="25" Width="25" Height="62" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\25.png</FileName>
+                          <OffsetX>0</OffsetX>
+                          <OffsetY>0</OffsetY>
+                          <ImportHeight>62</ImportHeight>
                           <ImportWidth>25</ImportWidth>
                           <ImportAsTile>False</ImportAsTile>
                           <Frame>0</Frame>
@@ -3301,73 +3361,13 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="22" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="26" Width="27" Height="60" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\22</FileName>
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\26.png</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
-                          <ImportHeight>50</ImportHeight>
-                          <ImportWidth>25</ImportWidth>
-                          <ImportAsTile>False</ImportAsTile>
-                          <Frame>0</Frame>
-                          <RemapToGamePalette>False</RemapToGamePalette>
-                          <RemapToRoomPalette>False</RemapToRoomPalette>
-                          <ImportMethod>LeaveAsIs</ImportMethod>
-                          <ImportAlphaChannel>False</ImportAlphaChannel>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="23" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\23</FileName>
-                          <OffsetX>0</OffsetX>
-                          <OffsetY>0</OffsetY>
-                          <ImportHeight>50</ImportHeight>
-                          <ImportWidth>25</ImportWidth>
-                          <ImportAsTile>False</ImportAsTile>
-                          <Frame>0</Frame>
-                          <RemapToGamePalette>False</RemapToGamePalette>
-                          <RemapToRoomPalette>False</RemapToRoomPalette>
-                          <ImportMethod>LeaveAsIs</ImportMethod>
-                          <ImportAlphaChannel>False</ImportAlphaChannel>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="24" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\24</FileName>
-                          <OffsetX>0</OffsetX>
-                          <OffsetY>0</OffsetY>
-                          <ImportHeight>50</ImportHeight>
-                          <ImportWidth>25</ImportWidth>
-                          <ImportAsTile>False</ImportAsTile>
-                          <Frame>0</Frame>
-                          <RemapToGamePalette>False</RemapToGamePalette>
-                          <RemapToRoomPalette>False</RemapToRoomPalette>
-                          <ImportMethod>LeaveAsIs</ImportMethod>
-                          <ImportAlphaChannel>False</ImportAlphaChannel>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="25" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\25</FileName>
-                          <OffsetX>0</OffsetX>
-                          <OffsetY>0</OffsetY>
-                          <ImportHeight>50</ImportHeight>
-                          <ImportWidth>25</ImportWidth>
-                          <ImportAsTile>False</ImportAsTile>
-                          <Frame>0</Frame>
-                          <RemapToGamePalette>False</RemapToGamePalette>
-                          <RemapToRoomPalette>False</RemapToRoomPalette>
-                          <ImportMethod>LeaveAsIs</ImportMethod>
-                          <ImportAlphaChannel>False</ImportAlphaChannel>
-                        </Source>
-                      </Sprite>
-                      <Sprite Slot="26" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\26</FileName>
-                          <OffsetX>0</OffsetX>
-                          <OffsetY>0</OffsetY>
-                          <ImportHeight>50</ImportHeight>
-                          <ImportWidth>25</ImportWidth>
+                          <ImportHeight>60</ImportHeight>
+                          <ImportWidth>27</ImportWidth>
                           <ImportAsTile>False</ImportAsTile>
                           <Frame>0</Frame>
                           <RemapToGamePalette>False</RemapToGamePalette>
@@ -7187,6 +7187,122 @@ stop
               <DefaultRepeat>False</DefaultRepeat>
               <DefaultBundlingType>InGameEXE</DefaultBundlingType>
               <DefaultType>3</DefaultType>
+            </AudioClipFolder>
+          </AudioClipFolder>
+          <AudioClipFolder Name="Mod_Music">
+            <SubFolders />
+            <AudioClips>
+              <AudioClip>
+                <ScriptName>aCs1</ScriptName>
+                <ID>0</ID>
+                <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\mod\cs1.mod</SourceFileName>
+                <Index>1</Index>
+                <Type>1</Type>
+                <BundlingType>InGameEXE</BundlingType>
+                <FileType>MOD</FileType>
+                <DefaultVolume>-1</DefaultVolume>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <FileLastModifiedDate>2022-03-22 03:32:49Z</FileLastModifiedDate>
+              </AudioClip>
+              <AudioClip>
+                <ScriptName>aCs2</ScriptName>
+                <ID>1</ID>
+                <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\mod\cs2.mod</SourceFileName>
+                <Index>2</Index>
+                <Type>1</Type>
+                <BundlingType>InGameEXE</BundlingType>
+                <FileType>MOD</FileType>
+                <DefaultVolume>-1</DefaultVolume>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <FileLastModifiedDate>2022-03-22 03:32:49Z</FileLastModifiedDate>
+              </AudioClip>
+              <AudioClip>
+                <ScriptName>aCs3</ScriptName>
+                <ID>2</ID>
+                <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\mod\cs3.mod</SourceFileName>
+                <Index>3</Index>
+                <Type>1</Type>
+                <BundlingType>InGameEXE</BundlingType>
+                <FileType>MOD</FileType>
+                <DefaultVolume>-1</DefaultVolume>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <FileLastModifiedDate>2022-03-22 03:32:49Z</FileLastModifiedDate>
+              </AudioClip>
+              <AudioClip>
+                <ScriptName>aCs4</ScriptName>
+                <ID>3</ID>
+                <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\mod\cs4.mod</SourceFileName>
+                <Index>4</Index>
+                <Type>1</Type>
+                <BundlingType>InGameEXE</BundlingType>
+                <FileType>MOD</FileType>
+                <DefaultVolume>-1</DefaultVolume>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <FileLastModifiedDate>2022-03-22 03:32:49Z</FileLastModifiedDate>
+              </AudioClip>
+              <AudioClip>
+                <ScriptName>aCs5</ScriptName>
+                <ID>4</ID>
+                <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\mod\cs5.mod</SourceFileName>
+                <Index>5</Index>
+                <Type>1</Type>
+                <BundlingType>InGameEXE</BundlingType>
+                <FileType>MOD</FileType>
+                <DefaultVolume>-1</DefaultVolume>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <FileLastModifiedDate>2022-03-22 03:32:49Z</FileLastModifiedDate>
+              </AudioClip>
+              <AudioClip>
+                <ScriptName>aCs6</ScriptName>
+                <ID>5</ID>
+                <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\mod\cs6.mod</SourceFileName>
+                <Index>6</Index>
+                <Type>1</Type>
+                <BundlingType>InGameEXE</BundlingType>
+                <FileType>MOD</FileType>
+                <DefaultVolume>-1</DefaultVolume>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <FileLastModifiedDate>2022-03-22 03:32:49Z</FileLastModifiedDate>
+              </AudioClip>
+              <AudioClip>
+                <ScriptName>aCs7_intro_</ScriptName>
+                <ID>6</ID>
+                <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\mod\cs7(intro).mod</SourceFileName>
+                <Index>7</Index>
+                <Type>1</Type>
+                <BundlingType>InGameEXE</BundlingType>
+                <FileType>MOD</FileType>
+                <DefaultVolume>-1</DefaultVolume>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <FileLastModifiedDate>2022-03-22 03:32:49Z</FileLastModifiedDate>
+              </AudioClip>
+              <AudioClip>
+                <ScriptName>aCs8_end_</ScriptName>
+                <ID>7</ID>
+                <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\mod\cs8(end).mod</SourceFileName>
+                <Index>8</Index>
+                <Type>1</Type>
+                <BundlingType>InGameEXE</BundlingType>
+                <FileType>MOD</FileType>
+                <DefaultVolume>-1</DefaultVolume>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <FileLastModifiedDate>2022-03-22 03:32:49Z</FileLastModifiedDate>
+              </AudioClip>
+            </AudioClips>
+            <AudioClipFolder>
+              <DefaultVolume>100</DefaultVolume>
+              <DefaultPriority>Inherit</DefaultPriority>
+              <DefaultRepeat>Inherit</DefaultRepeat>
+              <DefaultBundlingType>InGameEXE</DefaultBundlingType>
+              <DefaultType>1</DefaultType>
             </AudioClipFolder>
           </AudioClipFolder>
         </SubFolders>
