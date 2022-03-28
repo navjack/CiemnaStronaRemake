@@ -681,6 +681,14 @@
             <Number>10</Number>
             <Description IsNull="True" />
           </UnloadedRoom>
+          <UnloadedRoom>
+            <Number>11</Number>
+            <Description IsNull="True" />
+          </UnloadedRoom>
+          <UnloadedRoom>
+            <Number>12</Number>
+            <Description IsNull="True" />
+          </UnloadedRoom>
         </UnloadedRooms>
       </UnloadedRoomFolder>
     </Rooms>
@@ -3376,12 +3384,12 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="27" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="27" Width="25" Height="61" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\27</FileName>
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\27.png</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
-                          <ImportHeight>50</ImportHeight>
+                          <ImportHeight>61</ImportHeight>
                           <ImportWidth>25</ImportWidth>
                           <ImportAsTile>False</ImportAsTile>
                           <Frame>0</Frame>
@@ -3391,12 +3399,12 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="28" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="28" Width="25" Height="61" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\28</FileName>
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\28.png</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
-                          <ImportHeight>50</ImportHeight>
+                          <ImportHeight>61</ImportHeight>
                           <ImportWidth>25</ImportWidth>
                           <ImportAsTile>False</ImportAsTile>
                           <Frame>0</Frame>
@@ -3406,12 +3414,12 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="29" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="29" Width="25" Height="61" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\29</FileName>
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\29.png</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
-                          <ImportHeight>50</ImportHeight>
+                          <ImportHeight>61</ImportHeight>
                           <ImportWidth>25</ImportWidth>
                           <ImportAsTile>False</ImportAsTile>
                           <Frame>0</Frame>
@@ -3421,12 +3429,12 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="30" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="30" Width="25" Height="61" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\30</FileName>
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\30.png</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
-                          <ImportHeight>50</ImportHeight>
+                          <ImportHeight>61</ImportHeight>
                           <ImportWidth>25</ImportWidth>
                           <ImportAsTile>False</ImportAsTile>
                           <Frame>0</Frame>
@@ -3436,12 +3444,12 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="31" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="31" Width="25" Height="61" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\31</FileName>
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\31.png</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
-                          <ImportHeight>50</ImportHeight>
+                          <ImportHeight>61</ImportHeight>
                           <ImportWidth>25</ImportWidth>
                           <ImportAsTile>False</ImportAsTile>
                           <Frame>0</Frame>
@@ -3451,12 +3459,12 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="32" Width="25" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="32" Width="25" Height="61" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                         <Source>
-                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\32</FileName>
+                          <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\32.png</FileName>
                           <OffsetX>0</OffsetX>
                           <OffsetY>0</OffsetY>
-                          <ImportHeight>50</ImportHeight>
+                          <ImportHeight>61</ImportHeight>
                           <ImportWidth>25</ImportWidth>
                           <ImportAsTile>False</ImportAsTile>
                           <Frame>0</Frame>
