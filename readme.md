@@ -4,15 +4,15 @@
 
 Data folder contains asset creation stuff, and the game folder contains the Adventure Game Studio project files.
 
-Everything should be happy if you put it in "”C:\ciemna strona”"
+Everything should be happy if you put it in "C:\ciemna strona"
 
-just clone this repo there or download the zip of it and put it there so you end up with
+Just clone this repo there or download the zip of it and put it there so you end up with
 
-`”C:\ciemna strona\data\*.*”`
+`"C:\ciemna strona\data\*.*"`
 
-`”C:\ciemna strona\game\*.*”`
+`"C:\ciemna strona\game\*.*"`
 
-`”C:\ciemna strona\readme.md”`
+`"C:\ciemna strona\readme.md"`
 
 ### Ideas & Goals
 
