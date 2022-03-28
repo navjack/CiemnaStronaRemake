@@ -47,6 +47,10 @@ Yell at me if you want to / don't want to be mentioned here
 * Savegame Editing Research - TangoBunny
 * Moral Support - TrackZero_
 
+#### oh boy
+
+I guess I should let it be known that NavJack hasn't actually BEATEN the game himself yet. He's watched others do it. Heck, my brain can't even remember things well enough to actually claim to have any sort of intimate knowledge of the game. I know this game is important and deserves a working copy to exist in the world. I’m hoping to get most of the legwork done in setting up this project so those smarter than me can go in and actually code it competently. My ADHD for certain means that this project will get **very close** to being finished and I’ll have to hand over ownership to someone else for them to finish it.
+
 # What?
 
 Ciemna Strona is a Polish developed point and click adventure game for the Amiga computer system in 1997 by:
