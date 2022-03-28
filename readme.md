@@ -35,10 +35,12 @@ There is really only music in this game that can reasonably captured and convert
 
 ### Thanks & Credits
 
-Dumbass who decided to do this remake and follow through with it - NavJack
-Obsessively researching and mapping and exploring the game - MP83
-Savegame Editing Research - TangoBunny
-Moral Support - TrackZero_
+Yell at me if you want to / don't want to be mentioned here
+
+* Dumbass who decided to do this remake and follow through with it - NavJack
+* Obsessively researching and mapping and exploring the game - MP83
+* Savegame Editing Research - TangoBunny
+* Moral Support - TrackZero_
 
 # What?
 
