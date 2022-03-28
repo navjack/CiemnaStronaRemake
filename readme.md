@@ -25,7 +25,7 @@ Just clone this repo there or download the zip of it and put it there so you end
 
 ### Asset creation
 
-I’ve (NavJack) been playing the game in emulator and taking screenshots or lossless APNG sequences and then by hand selecting the things I want and saving them. Each screen of the game is screenshotted twice at least to get a clean version of the room using a composite of the two to remove the player sprite. Animations are ripped by capturing the game with ShareX to an animated PNG file that I extract the frames of (export as image sequence) using VirtualDub2 while resizing them to 320x256 and then using DupeGuru to remove any 100% duplicate frames to save space and cut down on files. Every asset is in true color, non-palletized, color depth with a DPI of 72 and in the PNG format.
+I’ve (NavJack) been playing the game in emulator and taking screenshots or lossless APNG sequences and then by hand selecting the things I want and saving them. Each screen of the game is screenshotted twice at least to get a clean version of the room using a composite of the two to remove the player sprite. Animations are ripped by capturing the game with ShareX to an animated PNG file that I extract the frames of (export as image sequence) using VirtualDub2 while resizing them to 320x256 and then using DupeGuru to remove any 100% duplicate frames to save space and cut down on files. Every final imported into the engine asset is in true color, non-palletized, color depth with a DPI of 72 and in the PNG format.
 
 # What?
 
