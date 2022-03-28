@@ -33,6 +33,13 @@ I’ve (NavJack) been playing the game in emulator and taking screenshots or los
 
 There is really only music in this game that can reasonably captured and converted for use. The original MOD files and the mod files rendered out to multitracks are included in this repo. To save space I'm keeping the FLAC versions of the multitracks local and only keeping OGG versions on the repo.
 
+### Thanks & Credits
+
+Dumbass who decided to do this remake and follow through with it - NavJack
+Obsessively researching and mapping and exploring the game - MP83
+Savegame Editing Research - TangoBunny
+Moral Support - TrackZero_
+
 # What?
 
 Ciemna Strona is a Polish developed point and click adventure game for the Amiga computer system in 1997 by:
