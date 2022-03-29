@@ -639,65 +639,86 @@
     <Plugins />
     <Rooms>
       <UnloadedRoomFolder Name="Main">
-        <SubFolders />
-        <UnloadedRooms>
-          <UnloadedRoom>
-            <Number>1</Number>
-            <Description />
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>2</Number>
-            <Description IsNull="True" />
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>3</Number>
-            <Description IsNull="True" />
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>4</Number>
-            <Description IsNull="True" />
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>5</Number>
-            <Description IsNull="True" />
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>6</Number>
-            <Description IsNull="True" />
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>7</Number>
-            <Description IsNull="True" />
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>8</Number>
-            <Description IsNull="True" />
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>9</Number>
-            <Description IsNull="True" />
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>10</Number>
-            <Description IsNull="True" />
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>11</Number>
-            <Description IsNull="True" />
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>12</Number>
-            <Description IsNull="True" />
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>13</Number>
-            <Description IsNull="True" />
-          </UnloadedRoom>
-          <UnloadedRoom>
-            <Number>14</Number>
-            <Description IsNull="True" />
-          </UnloadedRoom>
-        </UnloadedRooms>
+        <SubFolders>
+          <UnloadedRoomFolder Name="1st-floor">
+            <SubFolders />
+            <UnloadedRooms />
+          </UnloadedRoomFolder>
+          <UnloadedRoomFolder Name="2nd-floor">
+            <SubFolders />
+            <UnloadedRooms>
+              <UnloadedRoom>
+                <Number>1</Number>
+                <Description />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>2</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>3</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>4</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>5</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>6</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>7</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>8</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>9</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>10</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>11</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>12</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>13</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>14</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+            </UnloadedRooms>
+          </UnloadedRoomFolder>
+          <UnloadedRoomFolder Name="3rd-floor">
+            <SubFolders />
+            <UnloadedRooms />
+          </UnloadedRoomFolder>
+          <UnloadedRoomFolder Name="service">
+            <SubFolders />
+            <UnloadedRooms />
+          </UnloadedRoomFolder>
+          <UnloadedRoomFolder Name="alien">
+            <SubFolders />
+            <UnloadedRooms />
+          </UnloadedRoomFolder>
+        </SubFolders>
+        <UnloadedRooms />
       </UnloadedRoomFolder>
     </Rooms>
     <GUIs>
