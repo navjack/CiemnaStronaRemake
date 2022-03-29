@@ -8312,6 +8312,106 @@ stop
               <DefaultType>1</DefaultType>
             </AudioClipFolder>
           </AudioClipFolder>
+          <AudioClipFolder Name="Multitracks">
+            <SubFolders>
+              <AudioClipFolder Name="1">
+                <SubFolders />
+                <AudioClips />
+                <AudioClipFolder>
+                  <DefaultVolume>100</DefaultVolume>
+                  <DefaultPriority>Inherit</DefaultPriority>
+                  <DefaultRepeat>Inherit</DefaultRepeat>
+                  <DefaultBundlingType>InGameEXE</DefaultBundlingType>
+                  <DefaultType>1</DefaultType>
+                </AudioClipFolder>
+              </AudioClipFolder>
+              <AudioClipFolder Name="2">
+                <SubFolders />
+                <AudioClips />
+                <AudioClipFolder>
+                  <DefaultVolume>100</DefaultVolume>
+                  <DefaultPriority>Inherit</DefaultPriority>
+                  <DefaultRepeat>Inherit</DefaultRepeat>
+                  <DefaultBundlingType>InGameEXE</DefaultBundlingType>
+                  <DefaultType>1</DefaultType>
+                </AudioClipFolder>
+              </AudioClipFolder>
+              <AudioClipFolder Name="3">
+                <SubFolders />
+                <AudioClips />
+                <AudioClipFolder>
+                  <DefaultVolume>100</DefaultVolume>
+                  <DefaultPriority>Inherit</DefaultPriority>
+                  <DefaultRepeat>Inherit</DefaultRepeat>
+                  <DefaultBundlingType>InGameEXE</DefaultBundlingType>
+                  <DefaultType>1</DefaultType>
+                </AudioClipFolder>
+              </AudioClipFolder>
+              <AudioClipFolder Name="4">
+                <SubFolders />
+                <AudioClips />
+                <AudioClipFolder>
+                  <DefaultVolume>100</DefaultVolume>
+                  <DefaultPriority>Inherit</DefaultPriority>
+                  <DefaultRepeat>Inherit</DefaultRepeat>
+                  <DefaultBundlingType>InGameEXE</DefaultBundlingType>
+                  <DefaultType>1</DefaultType>
+                </AudioClipFolder>
+              </AudioClipFolder>
+              <AudioClipFolder Name="5">
+                <SubFolders />
+                <AudioClips />
+                <AudioClipFolder>
+                  <DefaultVolume>100</DefaultVolume>
+                  <DefaultPriority>Inherit</DefaultPriority>
+                  <DefaultRepeat>Inherit</DefaultRepeat>
+                  <DefaultBundlingType>InGameEXE</DefaultBundlingType>
+                  <DefaultType>1</DefaultType>
+                </AudioClipFolder>
+              </AudioClipFolder>
+              <AudioClipFolder Name="6">
+                <SubFolders />
+                <AudioClips />
+                <AudioClipFolder>
+                  <DefaultVolume>100</DefaultVolume>
+                  <DefaultPriority>Inherit</DefaultPriority>
+                  <DefaultRepeat>Inherit</DefaultRepeat>
+                  <DefaultBundlingType>InGameEXE</DefaultBundlingType>
+                  <DefaultType>1</DefaultType>
+                </AudioClipFolder>
+              </AudioClipFolder>
+              <AudioClipFolder Name="7">
+                <SubFolders />
+                <AudioClips />
+                <AudioClipFolder>
+                  <DefaultVolume>100</DefaultVolume>
+                  <DefaultPriority>Inherit</DefaultPriority>
+                  <DefaultRepeat>Inherit</DefaultRepeat>
+                  <DefaultBundlingType>InGameEXE</DefaultBundlingType>
+                  <DefaultType>1</DefaultType>
+                </AudioClipFolder>
+              </AudioClipFolder>
+              <AudioClipFolder Name="8">
+                <SubFolders />
+                <AudioClips />
+                <AudioClipFolder>
+                  <DefaultVolume>100</DefaultVolume>
+                  <DefaultPriority>Inherit</DefaultPriority>
+                  <DefaultRepeat>Inherit</DefaultRepeat>
+                  <DefaultBundlingType>InGameEXE</DefaultBundlingType>
+                  <DefaultType>1</DefaultType>
+                </AudioClipFolder>
+              </AudioClipFolder>
+            </SubFolders>
+            <AudioClips />
+            <AudioClipFolder>
+              <DefaultVolume>100</DefaultVolume>
+              <DefaultPriority>Inherit</DefaultPriority>
+              <DefaultRepeat>Inherit</DefaultRepeat>
+              <DefaultBundlingType>InGameEXE</DefaultBundlingType>
+              <DefaultType>1</DefaultType>
+            </AudioClipFolder>
+          </AudioClipFolder>
         </SubFolders>
         <AudioClips />
         <AudioClipFolder>
