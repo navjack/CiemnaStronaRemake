@@ -78,7 +78,7 @@
       <SaveGameFileExtension />
       <SaveGameFolderName xml:space="preserve">Ciemna Strona</SaveGameFolderName>
       <BinaryFilesInSourceControl>False</BinaryFilesInSourceControl>
-      <AudioIndexer>8</AudioIndexer>
+      <AudioIndexer>81</AudioIndexer>
       <BuildTargets>Windows</BuildTargets>
       <RenderAtScreenResolution>False</RenderAtScreenResolution>
     </Settings>
@@ -8316,7 +8316,73 @@ stop
             <SubFolders>
               <AudioClipFolder Name="1">
                 <SubFolders />
-                <AudioClips />
+                <AudioClips>
+                  <AudioClip>
+                    <ScriptName>aCs1_mod___002</ScriptName>
+                    <ID>8</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs1.mod - 002.ogg</SourceFileName>
+                    <Index>9</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:05:58Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs1_mod___003</ScriptName>
+                    <ID>9</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs1.mod - 003.ogg</SourceFileName>
+                    <Index>10</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:00Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs1_mod___004</ScriptName>
+                    <ID>10</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs1.mod - 004.ogg</SourceFileName>
+                    <Index>11</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:05:58Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs1_mod___005</ScriptName>
+                    <ID>11</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs1.mod - 005.ogg</SourceFileName>
+                    <Index>12</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:01Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs1_mod___007</ScriptName>
+                    <ID>12</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs1.mod - 007.ogg</SourceFileName>
+                    <Index>13</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:05:59Z</FileLastModifiedDate>
+                  </AudioClip>
+                </AudioClips>
                 <AudioClipFolder>
                   <DefaultVolume>100</DefaultVolume>
                   <DefaultPriority>Inherit</DefaultPriority>
@@ -8327,7 +8393,112 @@ stop
               </AudioClipFolder>
               <AudioClipFolder Name="2">
                 <SubFolders />
-                <AudioClips />
+                <AudioClips>
+                  <AudioClip>
+                    <ScriptName>aCs2_mod___001</ScriptName>
+                    <ID>13</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs2.mod - 001.ogg</SourceFileName>
+                    <Index>14</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:05:59Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs2_mod___002</ScriptName>
+                    <ID>14</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs2.mod - 002.ogg</SourceFileName>
+                    <Index>15</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:05:58Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs2_mod___003</ScriptName>
+                    <ID>15</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs2.mod - 003.ogg</SourceFileName>
+                    <Index>16</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:05:58Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs2_mod___004</ScriptName>
+                    <ID>16</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs2.mod - 004.ogg</SourceFileName>
+                    <Index>17</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:05:59Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs2_mod___005</ScriptName>
+                    <ID>17</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs2.mod - 005.ogg</SourceFileName>
+                    <Index>18</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:01Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs2_mod___006</ScriptName>
+                    <ID>18</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs2.mod - 006.ogg</SourceFileName>
+                    <Index>19</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:00Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs2_mod___007</ScriptName>
+                    <ID>19</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs2.mod - 007.ogg</SourceFileName>
+                    <Index>20</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:00Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs2_mod___008</ScriptName>
+                    <ID>20</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs2.mod - 008.ogg</SourceFileName>
+                    <Index>21</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:05:58Z</FileLastModifiedDate>
+                  </AudioClip>
+                </AudioClips>
                 <AudioClipFolder>
                   <DefaultVolume>100</DefaultVolume>
                   <DefaultPriority>Inherit</DefaultPriority>
@@ -8338,7 +8509,112 @@ stop
               </AudioClipFolder>
               <AudioClipFolder Name="3">
                 <SubFolders />
-                <AudioClips />
+                <AudioClips>
+                  <AudioClip>
+                    <ScriptName>aCs3_mod___001</ScriptName>
+                    <ID>21</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs3.mod - 001.ogg</SourceFileName>
+                    <Index>22</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:05:59Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs3_mod___002</ScriptName>
+                    <ID>22</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs3.mod - 002.ogg</SourceFileName>
+                    <Index>23</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:05:58Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs3_mod___003</ScriptName>
+                    <ID>23</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs3.mod - 003.ogg</SourceFileName>
+                    <Index>24</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:05:58Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs3_mod___004</ScriptName>
+                    <ID>24</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs3.mod - 004.ogg</SourceFileName>
+                    <Index>25</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:05:58Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs3_mod___005</ScriptName>
+                    <ID>25</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs3.mod - 005.ogg</SourceFileName>
+                    <Index>26</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:05:58Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs3_mod___006</ScriptName>
+                    <ID>26</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs3.mod - 006.ogg</SourceFileName>
+                    <Index>27</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:05:57Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs3_mod___008</ScriptName>
+                    <ID>27</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs3.mod - 008.ogg</SourceFileName>
+                    <Index>28</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:05:57Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs3_mod___009</ScriptName>
+                    <ID>28</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs3.mod - 009.ogg</SourceFileName>
+                    <Index>29</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:05:57Z</FileLastModifiedDate>
+                  </AudioClip>
+                </AudioClips>
                 <AudioClipFolder>
                   <DefaultVolume>100</DefaultVolume>
                   <DefaultPriority>Inherit</DefaultPriority>
@@ -8349,7 +8625,151 @@ stop
               </AudioClipFolder>
               <AudioClipFolder Name="4">
                 <SubFolders />
-                <AudioClips />
+                <AudioClips>
+                  <AudioClip>
+                    <ScriptName>aCs4_mod___001</ScriptName>
+                    <ID>29</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs4.mod - 001.ogg</SourceFileName>
+                    <Index>30</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:05:58Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs4_mod___002</ScriptName>
+                    <ID>30</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs4.mod - 002.ogg</SourceFileName>
+                    <Index>31</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:05:59Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs4_mod___003</ScriptName>
+                    <ID>31</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs4.mod - 003.ogg</SourceFileName>
+                    <Index>32</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:05:58Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs4_mod___004</ScriptName>
+                    <ID>32</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs4.mod - 004.ogg</SourceFileName>
+                    <Index>33</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:01Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs4_mod___005</ScriptName>
+                    <ID>33</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs4.mod - 005.ogg</SourceFileName>
+                    <Index>34</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:01Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs4_mod___006</ScriptName>
+                    <ID>34</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs4.mod - 006.ogg</SourceFileName>
+                    <Index>35</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:01Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs4_mod___007</ScriptName>
+                    <ID>35</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs4.mod - 007.ogg</SourceFileName>
+                    <Index>36</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:01Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs4_mod___008</ScriptName>
+                    <ID>36</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs4.mod - 008.ogg</SourceFileName>
+                    <Index>37</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:01Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs4_mod___009</ScriptName>
+                    <ID>37</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs4.mod - 009.ogg</SourceFileName>
+                    <Index>38</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:01Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs4_mod___010</ScriptName>
+                    <ID>38</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs4.mod - 010.ogg</SourceFileName>
+                    <Index>39</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:02Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs4_mod___011</ScriptName>
+                    <ID>39</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs4.mod - 011.ogg</SourceFileName>
+                    <Index>40</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:01Z</FileLastModifiedDate>
+                  </AudioClip>
+                </AudioClips>
                 <AudioClipFolder>
                   <DefaultVolume>100</DefaultVolume>
                   <DefaultPriority>Inherit</DefaultPriority>
@@ -8360,7 +8780,125 @@ stop
               </AudioClipFolder>
               <AudioClipFolder Name="5">
                 <SubFolders />
-                <AudioClips />
+                <AudioClips>
+                  <AudioClip>
+                    <ScriptName>aCs5_mod___001</ScriptName>
+                    <ID>40</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs5.mod - 001.ogg</SourceFileName>
+                    <Index>41</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:07Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs5_mod___002</ScriptName>
+                    <ID>41</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs5.mod - 002.ogg</SourceFileName>
+                    <Index>42</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:05Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs5_mod___003</ScriptName>
+                    <ID>42</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs5.mod - 003.ogg</SourceFileName>
+                    <Index>43</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:04Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs5_mod___004</ScriptName>
+                    <ID>43</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs5.mod - 004.ogg</SourceFileName>
+                    <Index>44</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:05Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs5_mod___005</ScriptName>
+                    <ID>44</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs5.mod - 005.ogg</SourceFileName>
+                    <Index>45</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:04Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs5_mod___006</ScriptName>
+                    <ID>45</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs5.mod - 006.ogg</SourceFileName>
+                    <Index>46</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:06Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs5_mod___008</ScriptName>
+                    <ID>46</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs5.mod - 008.ogg</SourceFileName>
+                    <Index>47</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:05Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs5_mod___009</ScriptName>
+                    <ID>47</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs5.mod - 009.ogg</SourceFileName>
+                    <Index>48</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:04Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs5_mod___010</ScriptName>
+                    <ID>48</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs5.mod - 010.ogg</SourceFileName>
+                    <Index>49</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:06Z</FileLastModifiedDate>
+                  </AudioClip>
+                </AudioClips>
                 <AudioClipFolder>
                   <DefaultVolume>100</DefaultVolume>
                   <DefaultPriority>Inherit</DefaultPriority>
@@ -8371,7 +8909,151 @@ stop
               </AudioClipFolder>
               <AudioClipFolder Name="6">
                 <SubFolders />
-                <AudioClips />
+                <AudioClips>
+                  <AudioClip>
+                    <ScriptName>aCs6_mod___001</ScriptName>
+                    <ID>49</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs6.mod - 001.ogg</SourceFileName>
+                    <Index>50</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:13Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs6_mod___002</ScriptName>
+                    <ID>50</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs6.mod - 002.ogg</SourceFileName>
+                    <Index>51</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:16Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs6_mod___003</ScriptName>
+                    <ID>51</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs6.mod - 003.ogg</SourceFileName>
+                    <Index>52</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:14Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs6_mod___004</ScriptName>
+                    <ID>52</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs6.mod - 004.ogg</SourceFileName>
+                    <Index>53</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:13Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs6_mod___005</ScriptName>
+                    <ID>53</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs6.mod - 005.ogg</SourceFileName>
+                    <Index>54</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:15Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs6_mod___006</ScriptName>
+                    <ID>54</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs6.mod - 006.ogg</SourceFileName>
+                    <Index>55</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:13Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs6_mod___007</ScriptName>
+                    <ID>55</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs6.mod - 007.ogg</SourceFileName>
+                    <Index>56</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:14Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs6_mod___008</ScriptName>
+                    <ID>56</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs6.mod - 008.ogg</SourceFileName>
+                    <Index>57</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:13Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs6_mod___009</ScriptName>
+                    <ID>57</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs6.mod - 009.ogg</SourceFileName>
+                    <Index>58</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:16Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs6_mod___011</ScriptName>
+                    <ID>58</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs6.mod - 011.ogg</SourceFileName>
+                    <Index>59</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:17Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs6_mod___012</ScriptName>
+                    <ID>59</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs6.mod - 012.ogg</SourceFileName>
+                    <Index>60</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:13Z</FileLastModifiedDate>
+                  </AudioClip>
+                </AudioClips>
                 <AudioClipFolder>
                   <DefaultVolume>100</DefaultVolume>
                   <DefaultPriority>Inherit</DefaultPriority>
@@ -8382,7 +9064,164 @@ stop
               </AudioClipFolder>
               <AudioClipFolder Name="7">
                 <SubFolders />
-                <AudioClips />
+                <AudioClips>
+                  <AudioClip>
+                    <ScriptName>aCs7_intro__mod___001</ScriptName>
+                    <ID>60</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs7(intro).mod - 001.ogg</SourceFileName>
+                    <Index>61</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:08Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs7_intro__mod___002</ScriptName>
+                    <ID>61</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs7(intro).mod - 002.ogg</SourceFileName>
+                    <Index>62</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:08Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs7_intro__mod___003</ScriptName>
+                    <ID>62</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs7(intro).mod - 003.ogg</SourceFileName>
+                    <Index>63</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:09Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs7_intro__mod___004</ScriptName>
+                    <ID>63</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs7(intro).mod - 004.ogg</SourceFileName>
+                    <Index>64</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:08Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs7_intro__mod___005</ScriptName>
+                    <ID>64</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs7(intro).mod - 005.ogg</SourceFileName>
+                    <Index>65</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:13Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs7_intro__mod___006</ScriptName>
+                    <ID>65</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs7(intro).mod - 006.ogg</SourceFileName>
+                    <Index>66</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:11Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs7_intro__mod___007</ScriptName>
+                    <ID>66</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs7(intro).mod - 007.ogg</SourceFileName>
+                    <Index>67</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:12Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs7_intro__mod___009</ScriptName>
+                    <ID>67</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs7(intro).mod - 009.ogg</SourceFileName>
+                    <Index>68</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:10Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs7_intro__mod___010</ScriptName>
+                    <ID>68</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs7(intro).mod - 010.ogg</SourceFileName>
+                    <Index>69</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:14Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs7_intro__mod___012</ScriptName>
+                    <ID>69</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs7(intro).mod - 012.ogg</SourceFileName>
+                    <Index>70</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:12Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs7_intro__mod___014</ScriptName>
+                    <ID>70</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs7(intro).mod - 014.ogg</SourceFileName>
+                    <Index>71</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:12Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs7_intro__mod___015</ScriptName>
+                    <ID>71</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs7(intro).mod - 015.ogg</SourceFileName>
+                    <Index>72</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:12Z</FileLastModifiedDate>
+                  </AudioClip>
+                </AudioClips>
                 <AudioClipFolder>
                   <DefaultVolume>100</DefaultVolume>
                   <DefaultPriority>Inherit</DefaultPriority>
@@ -8393,7 +9232,125 @@ stop
               </AudioClipFolder>
               <AudioClipFolder Name="8">
                 <SubFolders />
-                <AudioClips />
+                <AudioClips>
+                  <AudioClip>
+                    <ScriptName>aCs8_end__mod___001</ScriptName>
+                    <ID>72</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs8(end).mod - 001.ogg</SourceFileName>
+                    <Index>73</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:13Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs8_end__mod___002</ScriptName>
+                    <ID>73</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs8(end).mod - 002.ogg</SourceFileName>
+                    <Index>74</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:13Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs8_end__mod___003</ScriptName>
+                    <ID>74</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs8(end).mod - 003.ogg</SourceFileName>
+                    <Index>75</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:13Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs8_end__mod___004</ScriptName>
+                    <ID>75</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs8(end).mod - 004.ogg</SourceFileName>
+                    <Index>76</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:13Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs8_end__mod___005</ScriptName>
+                    <ID>76</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs8(end).mod - 005.ogg</SourceFileName>
+                    <Index>77</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:14Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs8_end__mod___008</ScriptName>
+                    <ID>77</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs8(end).mod - 008.ogg</SourceFileName>
+                    <Index>78</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:16Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs8_end__mod___010</ScriptName>
+                    <ID>78</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs8(end).mod - 010.ogg</SourceFileName>
+                    <Index>79</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:15Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs8_end__mod___011</ScriptName>
+                    <ID>79</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs8(end).mod - 011.ogg</SourceFileName>
+                    <Index>80</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:16Z</FileLastModifiedDate>
+                  </AudioClip>
+                  <AudioClip>
+                    <ScriptName>aCs8_end__mod___012</ScriptName>
+                    <ID>80</ID>
+                    <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\multitracks\lossy\cs8(end).mod - 012.ogg</SourceFileName>
+                    <Index>81</Index>
+                    <Type>1</Type>
+                    <BundlingType>InGameEXE</BundlingType>
+                    <FileType>OGG</FileType>
+                    <DefaultVolume>-1</DefaultVolume>
+                    <DefaultPriority>Inherit</DefaultPriority>
+                    <DefaultRepeat>Inherit</DefaultRepeat>
+                    <FileLastModifiedDate>2022-03-28 01:06:17Z</FileLastModifiedDate>
+                  </AudioClip>
+                </AudioClips>
                 <AudioClipFolder>
                   <DefaultVolume>100</DefaultVolume>
                   <DefaultPriority>Inherit</DefaultPriority>
