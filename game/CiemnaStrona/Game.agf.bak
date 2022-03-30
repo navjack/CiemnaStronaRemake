@@ -703,6 +703,10 @@
                 <Number>14</Number>
                 <Description IsNull="True" />
               </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>15</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
             </UnloadedRooms>
           </UnloadedRoomFolder>
           <UnloadedRoomFolder Name="3rd-floor">
