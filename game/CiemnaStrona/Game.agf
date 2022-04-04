@@ -9064,9 +9064,9 @@ stop
             <SubFolders />
             <AudioClips>
               <AudioClip>
-                <ScriptName>aCs1</ScriptName>
                 <ID>0</ID>
                 <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\mod\cs1.mod</SourceFileName>
+                <ScriptName>aCs1</ScriptName>
                 <Index>1</Index>
                 <Type>1</Type>
                 <BundlingType>InGameEXE</BundlingType>
@@ -10246,8 +10246,8 @@ stop
     </AudioClips>
     <AudioClipTypes>
       <AudioClipType>
-        <Name xml:space="preserve">Ambient Sound</Name>
         <TypeID>1</TypeID>
+        <Name xml:space="preserve">Ambient Sound</Name>
         <MaxChannels>1</MaxChannels>
         <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
