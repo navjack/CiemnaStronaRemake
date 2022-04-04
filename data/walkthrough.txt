@@ -1,0 +1,66 @@
+ 1. Look at your wife.
+ 2. Leave the room.
+ 3. Move right, pass the next two doors and enter the third one.
+ 4. Inside Eliza's room you'll find an alarm clock (open it and remove the battery), blanket, a microscope and a picture.
+ 5. On the right in the bathroom take the perfumes.
+ 6. The next door also conceals of three rooms (you will know you're inside the bedroom if you see some pieces of your lady).
+ 7. Open the cube, take the gel and a vibrator.
+ 8. Use the gel on the vibrator.
+ 9. Take a bottle of Jaś from the storage room, and a shirt from the bathroom.
+10. In the next room in the corridor (living room) you'll find a spoon and Winston the robot, you can speak some pig latin with it.
+11. Go to the first level.
+12. In the corridor, you'll find a blaster which unfortunately does not work.
+13. Enter the door, close to the blaster, take a book from the containers and the fish skeleton.
+14. On the right side you will find some glue in a container.
+15. Go to the third level.
+16. Take the container and gloves from the laboratory.
+17. In the medical facility open Medcom - there's Eliza's head inside.
+18. Wrap it in your shirt and get back to the living quarters.
+19. Go into the room with Eliza's corpse and use the rubber gloves on her.
+20. In her stomach, you will find a strange ball. 
+21. Get back on the first level.
+22. Find a room with a trapdoor and use it.
+23. You'll find yourself at the service level.
+24. In the room at the top left you'll find a lighter, put a battery inside it.
+25. In the room to the far left you will find a holographic crystal.
+26. In the room in the south-west from where you started is the power socket.
+27. Use the the vibrator on the power socket.
+28. When you'll exit this room you will find a cable.
+29. In the room on the far south-east you'll find golf trolley - take a club.
+30. Go to the area that's being repaired (at the top), try to take the robot pincers and talk with him about it.
+31. When it gets mad, use the golf club on the cables.
+32. Take the pincers.
+33. They help remove a computer card from Eliza's mouth.
+34. Then use the pincers on a microscope.
+35. Get back to the top.
+36. In the room next to you open the smaler computer, and insert the card.
+37. Go to the third level.
+38. Use the holographic crystal on the holo-player -  it's a map of the first level along with a selected sub-station of the emergency door opening system (as you remember, one of the door are damaged).
+39. Use the Analizator now.
+40. Go to the first level and find the sub-station of the emergency door opening system.
+41. Now use the glue on the teaspoon, and then use the pincers to rip the teeth.
+42. Attach to the teeth with a teaspoon and constructed as a tool open a substation.
+43. Use the sub-station and find the door with burned panels, which will be open now.
+44. Take the heart, and amber.
+45. On the left, insert the lens to the broken laser blade.
+46. Use the ball on the laser blade.
+47. Take a torch and a hammer (pretty hard to find as it's ONE pixel big, try the room next door).
+48. Using a hammer break the ball.
+49. Go to the third level and enter the room with some exhibits and a player.
+50. Take one of the exhibits and brake it with a hammer.
+
+WARNING! If something is wrong at this point, you will have to make some minor changes to the file xdatO and the current save file.
+In the xdatO file under $44F2, change $153A to $11B6.
+Under $4516, change $153A to $11B6, and from the number present at $8D7F subtract $384 (this is an official message from the authors of the game!).
+
+51. Break the perfumes using a hammer.
+52. Cut the blanket to strips with the sharp piece of glass you have now.
+53. Use one of the strips on the exhibit, and you will get something like a small bomb.
+54. Go to the next level, go to the room with palm trees holograms and using a lighter blow up the bomb.
+55. The holograms will disappear and you will be able to place a crystal (from the ball) on the device on the left.
+56. Cut the heart with a piece of glass - there is a card inside.
+57. Get down to the service level, attach the cable to the ladder and go down.
+58. At the door, use the card and go inside.
+59. Look at the card and the alien's tentacle, go to Winston the robot and read the book there.
+60. Return to the Alien, take a card, go to the reactor (you will open the door with the card) and take two fuel rods.
+61. Return to the Alien with a bottle of whiskey and watch the end.
