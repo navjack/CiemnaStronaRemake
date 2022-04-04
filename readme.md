@@ -14,6 +14,8 @@ Just clone this repo there or download the zip of it and put it there so you end
 
 `"C:\ciemna strona\readme.md"`
 
+**Check the [wiki](https://github.com/navjack/CiemnaStronaRemake/wiki)!**
+
 ### Ideas & Goals
 
 * TRANSLATE TEXT
