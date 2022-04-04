@@ -780,11 +780,181 @@
           </UnloadedRoomFolder>
           <UnloadedRoomFolder Name="3rd-floor">
             <SubFolders />
-            <UnloadedRooms />
+            <UnloadedRooms>
+              <UnloadedRoom>
+                <Number>33</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>34</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>35</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>36</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>37</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>38</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>39</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>40</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>41</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>42</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>43</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+            </UnloadedRooms>
           </UnloadedRoomFolder>
           <UnloadedRoomFolder Name="service">
             <SubFolders />
-            <UnloadedRooms />
+            <UnloadedRooms>
+              <UnloadedRoom>
+                <Number>44</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>45</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>46</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>47</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>48</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>49</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>50</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>51</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>52</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>53</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>54</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>55</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>56</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>57</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>58</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>59</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>60</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>61</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>62</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>63</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>64</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>65</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>66</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>67</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>68</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>69</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>70</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>71</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>72</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>73</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>74</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+            </UnloadedRooms>
           </UnloadedRoomFolder>
           <UnloadedRoomFolder Name="alien">
             <SubFolders />
