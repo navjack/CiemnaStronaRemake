@@ -780,7 +780,52 @@
           </UnloadedRoomFolder>
           <UnloadedRoomFolder Name="3rd-floor">
             <SubFolders />
-            <UnloadedRooms />
+            <UnloadedRooms>
+              <UnloadedRoom>
+                <Number>33</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>34</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>35</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>36</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>37</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>38</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>39</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>40</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>41</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>42</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>43</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
+            </UnloadedRooms>
           </UnloadedRoomFolder>
           <UnloadedRoomFolder Name="service">
             <SubFolders />

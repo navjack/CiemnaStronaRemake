@@ -703,6 +703,10 @@
                 <Number>31</Number>
                 <Description IsNull="True" />
               </UnloadedRoom>
+              <UnloadedRoom>
+                <Number>32</Number>
+                <Description IsNull="True" />
+              </UnloadedRoom>
             </UnloadedRooms>
           </UnloadedRoomFolder>
           <UnloadedRoomFolder Name="2nd-floor">
