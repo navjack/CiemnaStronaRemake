@@ -7,7 +7,7 @@
       <GameName xml:space="preserve">Ciemna Strona</GameName>
       <UniqueID>2437656</UniqueID>
       <GUIDAsString>{159a5f2b-e1d1-4ce1-8573-19e606931fe1}</GUIDAsString>
-      <ColorDepth>TrueColor</ColorDepth>
+      <ColorDepth>Palette</ColorDepth>
       <CustomResolution>320,256</CustomResolution>
       <AllowRelativeAssetResolutions>True</AllowRelativeAssetResolutions>
       <CompressSprites>True</CompressSprites>
@@ -18,7 +18,7 @@
       <TurnBeforeFacing>False</TurnBeforeFacing>
       <TurnBeforeWalking>True</TurnBeforeWalking>
       <ScaleMovementSpeedWithMaskResolution>True</ScaleMovementSpeedWithMaskResolution>
-      <SplitResources>0</SplitResources>
+      <SplitResources>1</SplitResources>
       <AttachDataToExe>False</AttachDataToExe>
       <LetterboxMode>False</LetterboxMode>
       <AutoMoveInWalkMode>True</AutoMoveInWalkMode>
@@ -83,7 +83,7 @@
       <RenderAtScreenResolution>False</RenderAtScreenResolution>
     </Settings>
     <RuntimeSetup>
-      <GraphicsDriver>OpenGL</GraphicsDriver>
+      <GraphicsDriver>Software</GraphicsDriver>
       <Windowed>True</Windowed>
       <FullscreenGameScaling>MaxInteger</FullscreenGameScaling>
       <GameScaling>Integer</GameScaling>
@@ -3410,91 +3410,91 @@ stop
       </Font>
     </Fonts>
     <Palette>
-      <PaletteEntry Index="0" Type="Gamewide" Red="0" Green="0" Blue="0" />
-      <PaletteEntry Index="1" Type="Gamewide" Red="0" Green="0" Blue="168" />
-      <PaletteEntry Index="2" Type="Gamewide" Red="0" Green="168" Blue="0" />
-      <PaletteEntry Index="3" Type="Gamewide" Red="0" Green="168" Blue="168" />
-      <PaletteEntry Index="4" Type="Gamewide" Red="168" Green="0" Blue="0" />
-      <PaletteEntry Index="5" Type="Gamewide" Red="168" Green="0" Blue="168" />
-      <PaletteEntry Index="6" Type="Gamewide" Red="168" Green="84" Blue="0" />
-      <PaletteEntry Index="7" Type="Gamewide" Red="168" Green="168" Blue="168" />
-      <PaletteEntry Index="8" Type="Gamewide" Red="84" Green="84" Blue="84" />
-      <PaletteEntry Index="9" Type="Gamewide" Red="84" Green="84" Blue="252" />
-      <PaletteEntry Index="10" Type="Gamewide" Red="84" Green="252" Blue="84" />
-      <PaletteEntry Index="11" Type="Gamewide" Red="84" Green="252" Blue="252" />
-      <PaletteEntry Index="12" Type="Gamewide" Red="252" Green="84" Blue="84" />
-      <PaletteEntry Index="13" Type="Gamewide" Red="252" Green="84" Blue="252" />
-      <PaletteEntry Index="14" Type="Gamewide" Red="252" Green="252" Blue="84" />
-      <PaletteEntry Index="15" Type="Gamewide" Red="252" Green="252" Blue="252" />
-      <PaletteEntry Index="16" Type="Gamewide" Red="0" Green="0" Blue="0" />
-      <PaletteEntry Index="17" Type="Gamewide" Red="20" Green="20" Blue="20" />
-      <PaletteEntry Index="18" Type="Gamewide" Red="32" Green="32" Blue="32" />
-      <PaletteEntry Index="19" Type="Gamewide" Red="44" Green="44" Blue="44" />
-      <PaletteEntry Index="20" Type="Gamewide" Red="56" Green="56" Blue="56" />
-      <PaletteEntry Index="21" Type="Gamewide" Red="68" Green="68" Blue="68" />
-      <PaletteEntry Index="22" Type="Gamewide" Red="80" Green="80" Blue="80" />
-      <PaletteEntry Index="23" Type="Gamewide" Red="96" Green="96" Blue="96" />
-      <PaletteEntry Index="24" Type="Gamewide" Red="112" Green="112" Blue="112" />
-      <PaletteEntry Index="25" Type="Gamewide" Red="128" Green="128" Blue="128" />
-      <PaletteEntry Index="26" Type="Gamewide" Red="144" Green="144" Blue="144" />
-      <PaletteEntry Index="27" Type="Gamewide" Red="160" Green="160" Blue="160" />
-      <PaletteEntry Index="28" Type="Gamewide" Red="180" Green="180" Blue="180" />
-      <PaletteEntry Index="29" Type="Gamewide" Red="200" Green="200" Blue="200" />
-      <PaletteEntry Index="30" Type="Gamewide" Red="224" Green="224" Blue="224" />
-      <PaletteEntry Index="31" Type="Gamewide" Red="252" Green="252" Blue="252" />
-      <PaletteEntry Index="32" Type="Gamewide" Red="0" Green="0" Blue="252" />
-      <PaletteEntry Index="33" Type="Gamewide" Red="68" Green="0" Blue="252" />
-      <PaletteEntry Index="34" Type="Gamewide" Red="124" Green="0" Blue="252" />
-      <PaletteEntry Index="35" Type="Gamewide" Red="184" Green="148" Blue="0" />
-      <PaletteEntry Index="36" Type="Gamewide" Red="184" Green="128" Blue="0" />
-      <PaletteEntry Index="37" Type="Gamewide" Red="252" Green="0" Blue="188" />
-      <PaletteEntry Index="38" Type="Gamewide" Red="252" Green="0" Blue="128" />
-      <PaletteEntry Index="39" Type="Gamewide" Red="252" Green="0" Blue="84" />
-      <PaletteEntry Index="40" Type="Gamewide" Red="252" Green="0" Blue="0" />
-      <PaletteEntry Index="41" Type="Gamewide" Red="252" Green="68" Blue="0" />
-      <PaletteEntry Index="42" Type="Background" Red="128" Green="120" Blue="120" />
-      <PaletteEntry Index="43" Type="Background" Red="136" Green="116" Blue="112" />
-      <PaletteEntry Index="44" Type="Background" Red="132" Green="8" Blue="4" />
-      <PaletteEntry Index="45" Type="Background" Red="20" Green="4" Blue="4" />
-      <PaletteEntry Index="46" Type="Background" Red="196" Green="20" Blue="4" />
-      <PaletteEntry Index="47" Type="Background" Red="148" Green="136" Blue="132" />
-      <PaletteEntry Index="48" Type="Background" Red="68" Green="12" Blue="4" />
-      <PaletteEntry Index="49" Type="Background" Red="148" Green="124" Blue="120" />
-      <PaletteEntry Index="50" Type="Background" Red="176" Green="168" Blue="168" />
-      <PaletteEntry Index="51" Type="Background" Red="164" Green="128" Blue="124" />
-      <PaletteEntry Index="52" Type="Background" Red="88" Green="84" Blue="84" />
-      <PaletteEntry Index="53" Type="Background" Red="128" Green="116" Blue="112" />
-      <PaletteEntry Index="54" Type="Background" Red="148" Green="120" Blue="112" />
-      <PaletteEntry Index="55" Type="Background" Red="192" Green="160" Blue="148" />
-      <PaletteEntry Index="56" Type="Background" Red="152" Green="128" Blue="116" />
-      <PaletteEntry Index="57" Type="Background" Red="172" Green="152" Blue="140" />
-      <PaletteEntry Index="58" Type="Background" Red="104" Green="44" Blue="12" />
-      <PaletteEntry Index="59" Type="Background" Red="160" Green="144" Blue="132" />
-      <PaletteEntry Index="60" Type="Background" Red="156" Green="76" Blue="24" />
-      <PaletteEntry Index="61" Type="Background" Red="176" Green="128" Blue="92" />
-      <PaletteEntry Index="62" Type="Background" Red="200" Green="108" Blue="32" />
-      <PaletteEntry Index="63" Type="Background" Red="204" Green="192" Blue="176" />
-      <PaletteEntry Index="64" Type="Background" Red="176" Green="168" Blue="148" />
-      <PaletteEntry Index="65" Type="Background" Red="188" Green="180" Blue="164" />
-      <PaletteEntry Index="66" Type="Background" Red="136" Green="132" Blue="120" />
-      <PaletteEntry Index="67" Type="Background" Red="232" Green="228" Blue="196" />
-      <PaletteEntry Index="68" Type="Background" Red="212" Green="208" Blue="200" />
-      <PaletteEntry Index="69" Type="Background" Red="116" Green="112" Blue="92" />
-      <PaletteEntry Index="70" Type="Background" Red="232" Green="232" Blue="232" />
-      <PaletteEntry Index="71" Type="Background" Red="188" Green="188" Blue="44" />
-      <PaletteEntry Index="72" Type="Background" Red="216" Green="212" Blue="16" />
-      <PaletteEntry Index="73" Type="Background" Red="144" Green="144" Blue="92" />
-      <PaletteEntry Index="74" Type="Background" Red="168" Green="168" Blue="68" />
-      <PaletteEntry Index="75" Type="Background" Red="124" Green="128" Blue="104" />
-      <PaletteEntry Index="76" Type="Background" Red="196" Green="200" Blue="192" />
-      <PaletteEntry Index="77" Type="Background" Red="0" Green="228" Blue="204" />
-      <PaletteEntry Index="78" Type="Background" Red="40" Green="200" Blue="188" />
-      <PaletteEntry Index="79" Type="Background" Red="80" Green="172" Blue="168" />
-      <PaletteEntry Index="80" Type="Background" Red="4" Green="184" Blue="176" />
-      <PaletteEntry Index="81" Type="Background" Red="16" Green="144" Blue="156" />
-      <PaletteEntry Index="82" Type="Background" Red="176" Green="188" Blue="192" />
-      <PaletteEntry Index="83" Type="Background" Red="188" Green="212" Blue="216" />
-      <PaletteEntry Index="84" Type="Background" Red="152" Green="180" Blue="192" />
+      <PaletteEntry Index="0" Type="Gamewide" Red="255" Green="0" Blue="255" />
+      <PaletteEntry Index="1" Type="Gamewide" Red="153" Green="68" Blue="255" />
+      <PaletteEntry Index="2" Type="Gamewide" Red="76" Green="34" Blue="127" />
+      <PaletteEntry Index="3" Type="Gamewide" Red="68" Green="34" Blue="119" />
+      <PaletteEntry Index="4" Type="Gamewide" Red="0" Green="34" Blue="255" />
+      <PaletteEntry Index="5" Type="Gamewide" Red="0" Green="17" Blue="127" />
+      <PaletteEntry Index="6" Type="Gamewide" Red="0" Green="17" Blue="119" />
+      <PaletteEntry Index="7" Type="Gamewide" Red="0" Green="102" Blue="255" />
+      <PaletteEntry Index="8" Type="Gamewide" Red="0" Green="51" Blue="127" />
+      <PaletteEntry Index="9" Type="Gamewide" Red="0" Green="51" Blue="119" />
+      <PaletteEntry Index="10" Type="Gamewide" Red="0" Green="51" Blue="118" />
+      <PaletteEntry Index="11" Type="Gamewide" Red="0" Green="170" Blue="255" />
+      <PaletteEntry Index="12" Type="Gamewide" Red="0" Green="85" Blue="127" />
+      <PaletteEntry Index="13" Type="Gamewide" Red="0" Green="86" Blue="121" />
+      <PaletteEntry Index="14" Type="Gamewide" Red="0" Green="85" Blue="119" />
+      <PaletteEntry Index="15" Type="Gamewide" Red="0" Green="238" Blue="255" />
+      <PaletteEntry Index="16" Type="Gamewide" Red="0" Green="119" Blue="127" />
+      <PaletteEntry Index="17" Type="Gamewide" Red="0" Green="119" Blue="119" />
+      <PaletteEntry Index="18" Type="Gamewide" Red="0" Green="255" Blue="0" />
+      <PaletteEntry Index="19" Type="Gamewide" Red="0" Green="153" Blue="0" />
+      <PaletteEntry Index="20" Type="Gamewide" Red="0" Green="127" Blue="0" />
+      <PaletteEntry Index="21" Type="Gamewide" Red="0" Green="119" Blue="0" />
+      <PaletteEntry Index="22" Type="Gamewide" Red="0" Green="76" Blue="0" />
+      <PaletteEntry Index="23" Type="Gamewide" Red="17" Green="51" Blue="0" />
+      <PaletteEntry Index="24" Type="Gamewide" Red="8" Green="25" Blue="0" />
+      <PaletteEntry Index="25" Type="Gamewide" Red="17" Green="51" Blue="1" />
+      <PaletteEntry Index="26" Type="Gamewide" Red="102" Green="119" Blue="0" />
+      <PaletteEntry Index="27" Type="Gamewide" Red="51" Green="59" Blue="0" />
+      <PaletteEntry Index="28" Type="Gamewide" Red="238" Green="255" Blue="136" />
+      <PaletteEntry Index="29" Type="Gamewide" Red="119" Green="127" Blue="68" />
+      <PaletteEntry Index="30" Type="Gamewide" Red="255" Green="255" Blue="204" />
+      <PaletteEntry Index="31" Type="Gamewide" Red="255" Green="255" Blue="205" />
+      <PaletteEntry Index="32" Type="Gamewide" Red="127" Green="127" Blue="102" />
+      <PaletteEntry Index="33" Type="Gamewide" Red="238" Green="221" Blue="0" />
+      <PaletteEntry Index="34" Type="Gamewide" Red="119" Green="110" Blue="0" />
+      <PaletteEntry Index="35" Type="Gamewide" Red="68" Green="51" Blue="18" />
+      <PaletteEntry Index="36" Type="Gamewide" Red="238" Green="153" Blue="0" />
+      <PaletteEntry Index="37" Type="Gamewide" Red="119" Green="76" Blue="0" />
+      <PaletteEntry Index="38" Type="Gamewide" Red="153" Green="102" Blue="34" />
+      <PaletteEntry Index="39" Type="Gamewide" Red="76" Green="51" Blue="17" />
+      <PaletteEntry Index="40" Type="Gamewide" Red="153" Green="102" Blue="35" />
+      <PaletteEntry Index="41" Type="Gamewide" Red="136" Green="68" Blue="0" />
+      <PaletteEntry Index="42" Type="Gamewide" Red="68" Green="34" Blue="0" />
+      <PaletteEntry Index="43" Type="Gamewide" Red="85" Green="34" Blue="0" />
+      <PaletteEntry Index="44" Type="Gamewide" Red="42" Green="17" Blue="0" />
+      <PaletteEntry Index="45" Type="Gamewide" Red="85" Green="34" Blue="1" />
+      <PaletteEntry Index="46" Type="Gamewide" Red="119" Green="85" Blue="67" />
+      <PaletteEntry Index="47" Type="Gamewide" Red="221" Green="187" Blue="170" />
+      <PaletteEntry Index="48" Type="Gamewide" Red="255" Green="221" Blue="204" />
+      <PaletteEntry Index="49" Type="Gamewide" Red="110" Green="93" Blue="85" />
+      <PaletteEntry Index="50" Type="Gamewide" Red="127" Green="110" Blue="102" />
+      <PaletteEntry Index="51" Type="Gamewide" Red="255" Green="170" Blue="136" />
+      <PaletteEntry Index="52" Type="Gamewide" Red="127" Green="85" Blue="68" />
+      <PaletteEntry Index="53" Type="Gamewide" Red="101" Green="85" Blue="84" />
+      <PaletteEntry Index="54" Type="Gamewide" Red="255" Green="0" Blue="0" />
+      <PaletteEntry Index="55" Type="Gamewide" Red="254" Green="0" Blue="0" />
+      <PaletteEntry Index="56" Type="Gamewide" Red="204" Green="0" Blue="0" />
+      <PaletteEntry Index="57" Type="Gamewide" Red="153" Green="0" Blue="0" />
+      <PaletteEntry Index="58" Type="Gamewide" Red="152" Green="0" Blue="0" />
+      <PaletteEntry Index="59" Type="Gamewide" Red="127" Green="0" Blue="0" />
+      <PaletteEntry Index="60" Type="Gamewide" Red="119" Green="1" Blue="0" />
+      <PaletteEntry Index="61" Type="Gamewide" Red="102" Green="0" Blue="0" />
+      <PaletteEntry Index="62" Type="Gamewide" Red="76" Green="0" Blue="0" />
+      <PaletteEntry Index="63" Type="Gamewide" Red="68" Green="0" Blue="0" />
+      <PaletteEntry Index="64" Type="Gamewide" Red="34" Green="0" Blue="0" />
+      <PaletteEntry Index="65" Type="Gamewide" Red="255" Green="255" Blue="255" />
+      <PaletteEntry Index="66" Type="Gamewide" Red="221" Green="221" Blue="221" />
+      <PaletteEntry Index="67" Type="Gamewide" Red="187" Green="187" Blue="187" />
+      <PaletteEntry Index="68" Type="Gamewide" Red="153" Green="153" Blue="153" />
+      <PaletteEntry Index="69" Type="Gamewide" Red="127" Green="127" Blue="127" />
+      <PaletteEntry Index="70" Type="Gamewide" Red="119" Green="119" Blue="119" />
+      <PaletteEntry Index="71" Type="Gamewide" Red="110" Green="110" Blue="110" />
+      <PaletteEntry Index="72" Type="Gamewide" Red="102" Green="102" Blue="102" />
+      <PaletteEntry Index="73" Type="Gamewide" Red="93" Green="93" Blue="93" />
+      <PaletteEntry Index="74" Type="Gamewide" Red="85" Green="85" Blue="85" />
+      <PaletteEntry Index="75" Type="Gamewide" Red="76" Green="76" Blue="76" />
+      <PaletteEntry Index="76" Type="Gamewide" Red="68" Green="68" Blue="68" />
+      <PaletteEntry Index="77" Type="Gamewide" Red="64" Green="64" Blue="64" />
+      <PaletteEntry Index="78" Type="Gamewide" Red="59" Green="59" Blue="59" />
+      <PaletteEntry Index="79" Type="Gamewide" Red="51" Green="51" Blue="51" />
+      <PaletteEntry Index="80" Type="Gamewide" Red="42" Green="42" Blue="42" />
+      <PaletteEntry Index="81" Type="Gamewide" Red="34" Green="34" Blue="34" />
+      <PaletteEntry Index="82" Type="Gamewide" Red="17" Green="17" Blue="17" />
+      <PaletteEntry Index="83" Type="Gamewide" Red="8" Green="8" Blue="8" />
+      <PaletteEntry Index="84" Type="Gamewide" Red="0" Green="0" Blue="0" />
       <PaletteEntry Index="85" Type="Background" Red="56" Green="152" Blue="212" />
       <PaletteEntry Index="86" Type="Background" Red="112" Green="176" Blue="216" />
       <PaletteEntry Index="87" Type="Background" Red="0" Green="120" Blue="200" />
@@ -3680,7 +3680,7 @@ stop
                   <SpriteFolder Name="walk">
                     <SubFolders />
                     <Sprites>
-                      <Sprite Slot="9" Width="32" Height="64" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="9" Width="32" Height="64" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                         <Source>
                           <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\9.png</FileName>
                           <OffsetX>0</OffsetX>
@@ -3695,7 +3695,7 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="10" Width="32" Height="64" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="10" Width="32" Height="64" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                         <Source>
                           <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\10.png</FileName>
                           <OffsetX>0</OffsetX>
@@ -3710,7 +3710,7 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="11" Width="32" Height="64" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="11" Width="32" Height="64" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                         <Source>
                           <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\11.png</FileName>
                           <OffsetX>0</OffsetX>
@@ -3725,7 +3725,7 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="12" Width="32" Height="64" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="12" Width="32" Height="64" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                         <Source>
                           <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\12.png</FileName>
                           <OffsetX>0</OffsetX>
@@ -3740,7 +3740,7 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="13" Width="32" Height="64" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="13" Width="32" Height="64" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                         <Source>
                           <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\13.png</FileName>
                           <OffsetX>0</OffsetX>
@@ -3755,7 +3755,7 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="14" Width="32" Height="64" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="14" Width="32" Height="64" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                         <Source>
                           <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\14.png</FileName>
                           <OffsetX>0</OffsetX>
@@ -3770,7 +3770,7 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="15" Width="37" Height="65" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="15" Width="37" Height="65" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                         <Source>
                           <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\15.png</FileName>
                           <OffsetX>0</OffsetX>
@@ -3785,7 +3785,7 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="16" Width="37" Height="65" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="16" Width="37" Height="65" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                         <Source>
                           <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\16.png</FileName>
                           <OffsetX>0</OffsetX>
@@ -3800,7 +3800,7 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="17" Width="37" Height="65" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="17" Width="37" Height="65" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                         <Source>
                           <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\17.png</FileName>
                           <OffsetX>0</OffsetX>
@@ -3815,7 +3815,7 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="18" Width="37" Height="65" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="18" Width="37" Height="65" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                         <Source>
                           <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\18.png</FileName>
                           <OffsetX>0</OffsetX>
@@ -3830,7 +3830,7 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="19" Width="37" Height="65" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="19" Width="37" Height="65" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                         <Source>
                           <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\19.png</FileName>
                           <OffsetX>0</OffsetX>
@@ -3845,7 +3845,7 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="20" Width="37" Height="65" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="20" Width="37" Height="65" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                         <Source>
                           <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\20.png</FileName>
                           <OffsetX>0</OffsetX>
@@ -3860,7 +3860,7 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="21" Width="37" Height="65" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="21" Width="37" Height="65" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                         <Source>
                           <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\21.png</FileName>
                           <OffsetX>0</OffsetX>
@@ -3875,7 +3875,7 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="22" Width="37" Height="65" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="22" Width="37" Height="65" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                         <Source>
                           <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\22.png</FileName>
                           <OffsetX>0</OffsetX>
@@ -3890,7 +3890,7 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="23" Width="37" Height="65" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="23" Width="37" Height="65" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                         <Source>
                           <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\23.png</FileName>
                           <OffsetX>0</OffsetX>
@@ -3905,7 +3905,7 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="24" Width="37" Height="65" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="24" Width="37" Height="65" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                         <Source>
                           <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\24.png</FileName>
                           <OffsetX>0</OffsetX>
@@ -3920,7 +3920,7 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="25" Width="37" Height="65" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="25" Width="37" Height="65" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                         <Source>
                           <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\25.png</FileName>
                           <OffsetX>0</OffsetX>
@@ -3935,7 +3935,7 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="26" Width="37" Height="65" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="26" Width="37" Height="65" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                         <Source>
                           <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\26.png</FileName>
                           <OffsetX>0</OffsetX>
@@ -3950,7 +3950,7 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="27" Width="32" Height="64" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="27" Width="32" Height="64" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                         <Source>
                           <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\27.png</FileName>
                           <OffsetX>0</OffsetX>
@@ -3965,7 +3965,7 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="28" Width="32" Height="64" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="28" Width="32" Height="64" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                         <Source>
                           <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\28.png</FileName>
                           <OffsetX>0</OffsetX>
@@ -3980,7 +3980,7 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="29" Width="32" Height="64" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="29" Width="32" Height="64" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                         <Source>
                           <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\29.png</FileName>
                           <OffsetX>0</OffsetX>
@@ -3995,7 +3995,7 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="30" Width="32" Height="64" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="30" Width="32" Height="64" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                         <Source>
                           <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\30.png</FileName>
                           <OffsetX>0</OffsetX>
@@ -4010,7 +4010,7 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="31" Width="32" Height="64" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="31" Width="32" Height="64" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                         <Source>
                           <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\31.png</FileName>
                           <OffsetX>0</OffsetX>
@@ -4025,7 +4025,7 @@ stop
                           <ImportAlphaChannel>False</ImportAlphaChannel>
                         </Source>
                       </Sprite>
-                      <Sprite Slot="32" Width="32" Height="64" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                      <Sprite Slot="32" Width="32" Height="64" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                         <Source>
                           <FileName>C:\Ciemna Strona\data\chars\Kurt\Walk\32.png</FileName>
                           <OffsetX>0</OffsetX>
@@ -4319,7 +4319,7 @@ stop
                   </SpriteFolder>
                 </SubFolders>
                 <Sprites>
-                  <Sprite Slot="1" Width="32" Height="64" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="1" Width="32" Height="64" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\chars\Kurt\1.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -4330,11 +4330,11 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2" Width="32" Height="64" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2" Width="32" Height="64" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\chars\Kurt\2.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -4345,11 +4345,11 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="3" Width="37" Height="65" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="3" Width="37" Height="65" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\chars\Kurt\3.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -4360,11 +4360,11 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="4" Width="32" Height="64" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="4" Width="32" Height="64" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\chars\Kurt\4.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -4375,11 +4375,11 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="5" Width="32" Height="64" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="5" Width="32" Height="64" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\chars\Kurt\5.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -4390,11 +4390,11 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="6" Width="32" Height="64" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="6" Width="32" Height="64" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\chars\Kurt\6.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -4405,11 +4405,11 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="7" Width="37" Height="65" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="7" Width="37" Height="65" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\chars\Kurt\7.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -4420,11 +4420,11 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="8" Width="32" Height="64" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="8" Width="32" Height="64" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\chars\Kurt\8.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -4435,7 +4435,7 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
@@ -4465,9 +4465,9 @@ stop
               <SpriteFolder Name="en">
                 <SubFolders />
                 <Sprites>
-                  <Sprite Slot="59" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="59" Width="50" Height="12" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName />
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\59.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>12</ImportHeight>
@@ -4476,13 +4476,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="60" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="60" Width="50" Height="12" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName />
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\60.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>12</ImportHeight>
@@ -4491,13 +4491,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="61" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="61" Width="50" Height="12" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName />
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\61.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>12</ImportHeight>
@@ -4506,13 +4506,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="62" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="62" Width="50" Height="12" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName />
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\62.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>12</ImportHeight>
@@ -4521,13 +4521,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="63" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="63" Width="50" Height="12" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName />
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\63.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>12</ImportHeight>
@@ -4536,13 +4536,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="64" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="64" Width="50" Height="12" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName />
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\64.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>12</ImportHeight>
@@ -4551,13 +4551,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="65" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="65" Width="50" Height="12" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName />
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\65.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>12</ImportHeight>
@@ -4566,13 +4566,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="66" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="66" Width="50" Height="12" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName />
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\66.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>12</ImportHeight>
@@ -4581,13 +4581,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="67" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="67" Width="50" Height="12" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName />
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\67.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>12</ImportHeight>
@@ -4596,13 +4596,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="68" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="68" Width="50" Height="12" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName />
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\68.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>12</ImportHeight>
@@ -4611,13 +4611,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="69" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="69" Width="50" Height="12" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName />
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\69.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>12</ImportHeight>
@@ -4626,13 +4626,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="70" Width="50" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="70" Width="50" Height="12" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName />
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\70.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>12</ImportHeight>
@@ -4641,13 +4641,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="71" Width="56" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="71" Width="56" Height="12" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName />
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\71.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>12</ImportHeight>
@@ -4656,13 +4656,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="72" Width="56" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="72" Width="56" Height="12" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName />
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\72.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>12</ImportHeight>
@@ -4671,13 +4671,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="73" Width="56" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="73" Width="56" Height="12" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName />
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\73.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>12</ImportHeight>
@@ -4686,13 +4686,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="74" Width="56" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="74" Width="56" Height="12" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName />
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\74.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>12</ImportHeight>
@@ -4701,13 +4701,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="75" Width="56" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="75" Width="56" Height="12" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName />
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\75.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>12</ImportHeight>
@@ -4716,13 +4716,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="76" Width="56" Height="12" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="76" Width="56" Height="12" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName />
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\76.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>12</ImportHeight>
@@ -4731,13 +4731,58 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="213" Width="37" Height="29" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="213" Width="37" Height="29" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Ciemna Strona\data\Custom_UI\Verbs\close_desel.png</FileName>
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\213</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>29</ImportHeight>
+                      <ImportWidth>37</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>NoTransparency</ImportMethod>
+                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="214" Width="37" Height="29" ColorDepth="8" Resolution="Real" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\214</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>29</ImportHeight>
+                      <ImportWidth>37</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>NoTransparency</ImportMethod>
+                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="215" Width="37" Height="29" ColorDepth="8" Resolution="Real" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\215</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>29</ImportHeight>
+                      <ImportWidth>37</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>NoTransparency</ImportMethod>
+                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="216" Width="37" Height="29" ColorDepth="8" Resolution="Real" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\216</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>29</ImportHeight>
@@ -4750,9 +4795,9 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="214" Width="37" Height="29" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="217" Width="37" Height="29" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Ciemna Strona\data\Custom_UI\Verbs\close_sel.png</FileName>
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\217</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>29</ImportHeight>
@@ -4765,9 +4810,9 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="215" Width="37" Height="29" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="218" Width="37" Height="29" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Ciemna Strona\data\Custom_UI\Verbs\get_desel.png</FileName>
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\218</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>29</ImportHeight>
@@ -4780,9 +4825,9 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="216" Width="37" Height="29" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="219" Width="37" Height="29" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Ciemna Strona\data\Custom_UI\Verbs\get_sel.png</FileName>
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\219</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>29</ImportHeight>
@@ -4795,9 +4840,9 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="217" Width="37" Height="29" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="220" Width="37" Height="29" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Ciemna Strona\data\Custom_UI\Verbs\look_desel.png</FileName>
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\220</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>29</ImportHeight>
@@ -4810,9 +4855,9 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="218" Width="37" Height="29" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="221" Width="37" Height="29" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Ciemna Strona\data\Custom_UI\Verbs\look_sel.png</FileName>
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\221</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>29</ImportHeight>
@@ -4825,9 +4870,9 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="219" Width="37" Height="29" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="222" Width="37" Height="29" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Ciemna Strona\data\Custom_UI\Verbs\open_desel.png</FileName>
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\222</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>29</ImportHeight>
@@ -4840,9 +4885,9 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="220" Width="37" Height="29" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="223" Width="37" Height="29" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Ciemna Strona\data\Custom_UI\Verbs\open_sel.png</FileName>
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\223</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>29</ImportHeight>
@@ -4855,54 +4900,9 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="221" Width="37" Height="29" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="224" Width="37" Height="29" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Ciemna Strona\data\Custom_UI\Verbs\talk_desel.png</FileName>
-                      <OffsetX>0</OffsetX>
-                      <OffsetY>0</OffsetY>
-                      <ImportHeight>29</ImportHeight>
-                      <ImportWidth>37</ImportWidth>
-                      <ImportAsTile>False</ImportAsTile>
-                      <Frame>0</Frame>
-                      <RemapToGamePalette>False</RemapToGamePalette>
-                      <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>NoTransparency</ImportMethod>
-                      <ImportAlphaChannel>True</ImportAlphaChannel>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="222" Width="37" Height="29" ColorDepth="32" Resolution="Real" AlphaChannel="False">
-                    <Source>
-                      <FileName>C:\Ciemna Strona\data\Custom_UI\Verbs\talk_sel.png</FileName>
-                      <OffsetX>0</OffsetX>
-                      <OffsetY>0</OffsetY>
-                      <ImportHeight>29</ImportHeight>
-                      <ImportWidth>37</ImportWidth>
-                      <ImportAsTile>False</ImportAsTile>
-                      <Frame>0</Frame>
-                      <RemapToGamePalette>False</RemapToGamePalette>
-                      <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>NoTransparency</ImportMethod>
-                      <ImportAlphaChannel>True</ImportAlphaChannel>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="223" Width="37" Height="29" ColorDepth="32" Resolution="Real" AlphaChannel="False">
-                    <Source>
-                      <FileName>C:\Ciemna Strona\data\Custom_UI\Verbs\use_desel.png</FileName>
-                      <OffsetX>0</OffsetX>
-                      <OffsetY>0</OffsetY>
-                      <ImportHeight>29</ImportHeight>
-                      <ImportWidth>37</ImportWidth>
-                      <ImportAsTile>False</ImportAsTile>
-                      <Frame>0</Frame>
-                      <RemapToGamePalette>False</RemapToGamePalette>
-                      <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>NoTransparency</ImportMethod>
-                      <ImportAlphaChannel>True</ImportAlphaChannel>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="224" Width="37" Height="29" ColorDepth="32" Resolution="Real" AlphaChannel="False">
-                    <Source>
-                      <FileName>C:\Ciemna Strona\data\Custom_UI\Verbs\use_sel.png</FileName>
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\224</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>29</ImportHeight>
@@ -6890,9 +6890,9 @@ stop
               <SpriteFolder Name="numbers">
                 <SubFolders />
                 <Sprites>
-                  <Sprite Slot="293" Width="10" Height="7" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                  <Sprite Slot="293" Width="10" Height="7" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\jackm\Downloads\unwad\unwad\strife1.wad.files\graphics\font\stcfn048.png</FileName>
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\Numbers\293.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>7</ImportHeight>
@@ -6901,13 +6901,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="294" Width="5" Height="7" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                  <Sprite Slot="294" Width="5" Height="7" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\jackm\Downloads\unwad\unwad\strife1.wad.files\graphics\font\stcfn049.png</FileName>
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\Numbers\294.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>7</ImportHeight>
@@ -6916,13 +6916,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="295" Width="8" Height="7" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                  <Sprite Slot="295" Width="8" Height="7" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\jackm\Downloads\unwad\unwad\strife1.wad.files\graphics\font\stcfn050.png</FileName>
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\Numbers\295.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>7</ImportHeight>
@@ -6931,13 +6931,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="296" Width="8" Height="7" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                  <Sprite Slot="296" Width="8" Height="7" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\jackm\Downloads\unwad\unwad\strife1.wad.files\graphics\font\stcfn051.png</FileName>
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\Numbers\296.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>7</ImportHeight>
@@ -6946,13 +6946,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="297" Width="8" Height="7" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                  <Sprite Slot="297" Width="8" Height="7" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\jackm\Downloads\unwad\unwad\strife1.wad.files\graphics\font\stcfn052.png</FileName>
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\Numbers\297.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>7</ImportHeight>
@@ -6961,13 +6961,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="298" Width="8" Height="7" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                  <Sprite Slot="298" Width="8" Height="7" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\jackm\Downloads\unwad\unwad\strife1.wad.files\graphics\font\stcfn053.png</FileName>
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\Numbers\298.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>7</ImportHeight>
@@ -6976,13 +6976,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="299" Width="9" Height="7" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                  <Sprite Slot="299" Width="9" Height="7" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\jackm\Downloads\unwad\unwad\strife1.wad.files\graphics\font\stcfn054.png</FileName>
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\Numbers\299.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>7</ImportHeight>
@@ -6991,13 +6991,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="300" Width="8" Height="7" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                  <Sprite Slot="300" Width="8" Height="7" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\jackm\Downloads\unwad\unwad\strife1.wad.files\graphics\font\stcfn055.png</FileName>
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\Numbers\300.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>7</ImportHeight>
@@ -7006,13 +7006,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="301" Width="9" Height="7" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                  <Sprite Slot="301" Width="9" Height="7" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\jackm\Downloads\unwad\unwad\strife1.wad.files\graphics\font\stcfn056.png</FileName>
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\Numbers\301.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>7</ImportHeight>
@@ -7021,13 +7021,13 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="302" Width="9" Height="7" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+                  <Sprite Slot="302" Width="9" Height="7" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\jackm\Downloads\unwad\unwad\strife1.wad.files\graphics\font\stcfn057.png</FileName>
+                      <FileName>C:\Ciemna Strona\data\Custom_UI\Numbers\302.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>7</ImportHeight>
@@ -7036,7 +7036,7 @@ stop
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>PaletteIndex0</ImportMethod>
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
@@ -7044,7 +7044,7 @@ stop
               </SpriteFolder>
             </SubFolders>
             <Sprites>
-              <Sprite Slot="51" Width="320" Height="100" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+              <Sprite Slot="51" Width="320" Height="100" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                 <Source>
                   <FileName>C:\Ciemna Strona\data\Custom_UI\background_clear2.png</FileName>
                   <OffsetX>0</OffsetX>
@@ -7055,13 +7055,13 @@ stop
                   <Frame>0</Frame>
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
-                  <ImportMethod>LeaveAsIs</ImportMethod>
-                  <ImportAlphaChannel>True</ImportAlphaChannel>
+                  <ImportMethod>PaletteIndex0</ImportMethod>
+                  <ImportAlphaChannel>False</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="52" Width="12" Height="19" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+              <Sprite Slot="52" Width="12" Height="19" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                 <Source>
-                  <FileName>assets/gui/arrow_up_off.png</FileName>
+                  <FileName>C:\Ciemna Strona\data\Custom_UI\up_shadow.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>19</ImportHeight>
@@ -7070,13 +7070,13 @@ stop
                   <Frame>0</Frame>
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
-                  <ImportMethod>LeaveAsIs</ImportMethod>
-                  <ImportAlphaChannel>True</ImportAlphaChannel>
+                  <ImportMethod>PaletteIndex0</ImportMethod>
+                  <ImportAlphaChannel>False</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="53" Width="12" Height="19" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+              <Sprite Slot="53" Width="12" Height="19" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                 <Source>
-                  <FileName>assets/gui/arrow_down_off.png</FileName>
+                  <FileName>C:\Ciemna Strona\data\Custom_UI\down_shadow.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>19</ImportHeight>
@@ -7085,28 +7085,13 @@ stop
                   <Frame>0</Frame>
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
-                  <ImportMethod>LeaveAsIs</ImportMethod>
-                  <ImportAlphaChannel>True</ImportAlphaChannel>
-                </Source>
-              </Sprite>
-              <Sprite Slot="55" Width="12" Height="20" ColorDepth="32" Resolution="Real" AlphaChannel="False">
-                <Source>
-                  <FileName />
-                  <OffsetX>0</OffsetX>
-                  <OffsetY>0</OffsetY>
-                  <ImportHeight>20</ImportHeight>
-                  <ImportWidth>12</ImportWidth>
-                  <ImportAsTile>False</ImportAsTile>
-                  <Frame>0</Frame>
-                  <RemapToGamePalette>False</RemapToGamePalette>
-                  <RemapToRoomPalette>False</RemapToRoomPalette>
-                  <ImportMethod>LeaveAsIs</ImportMethod>
+                  <ImportMethod>PaletteIndex0</ImportMethod>
                   <ImportAlphaChannel>False</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="56" Width="12" Height="20" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="55" Width="12" Height="20" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                 <Source>
-                  <FileName />
+                  <FileName>C:\Ciemna Strona\data\Custom_UI\upblue.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>20</ImportHeight>
@@ -7115,13 +7100,13 @@ stop
                   <Frame>0</Frame>
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
-                  <ImportMethod>LeaveAsIs</ImportMethod>
+                  <ImportMethod>PaletteIndex0</ImportMethod>
                   <ImportAlphaChannel>False</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="57" Width="12" Height="20" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="56" Width="12" Height="20" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                 <Source>
-                  <FileName />
+                  <FileName>C:\Ciemna Strona\data\Custom_UI\downblue.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>20</ImportHeight>
@@ -7130,13 +7115,13 @@ stop
                   <Frame>0</Frame>
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
-                  <ImportMethod>LeaveAsIs</ImportMethod>
+                  <ImportMethod>PaletteIndex0</ImportMethod>
                   <ImportAlphaChannel>False</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="58" Width="12" Height="20" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="57" Width="12" Height="20" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                 <Source>
-                  <FileName />
+                  <FileName>C:\Ciemna Strona\data\Custom_UI\uptan.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>20</ImportHeight>
@@ -7145,7 +7130,22 @@ stop
                   <Frame>0</Frame>
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
-                  <ImportMethod>LeaveAsIs</ImportMethod>
+                  <ImportMethod>PaletteIndex0</ImportMethod>
+                  <ImportAlphaChannel>False</ImportAlphaChannel>
+                </Source>
+              </Sprite>
+              <Sprite Slot="58" Width="12" Height="20" ColorDepth="8" Resolution="Real" AlphaChannel="False">
+                <Source>
+                  <FileName>C:\Ciemna Strona\data\Custom_UI\downtan.png</FileName>
+                  <OffsetX>0</OffsetX>
+                  <OffsetY>0</OffsetY>
+                  <ImportHeight>20</ImportHeight>
+                  <ImportWidth>12</ImportWidth>
+                  <ImportAsTile>False</ImportAsTile>
+                  <Frame>0</Frame>
+                  <RemapToGamePalette>False</RemapToGamePalette>
+                  <RemapToRoomPalette>False</RemapToRoomPalette>
+                  <ImportMethod>PaletteIndex0</ImportMethod>
                   <ImportAlphaChannel>False</ImportAlphaChannel>
                 </Source>
               </Sprite>
@@ -7171,7 +7171,7 @@ stop
               <SpriteFolder Name="ciemna">
                 <SubFolders />
                 <Sprites>
-                  <Sprite Slot="225" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="225" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_01.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7186,7 +7186,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="226" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="226" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_03.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7201,7 +7201,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="227" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="227" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_05.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7216,7 +7216,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="228" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="228" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_07.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7231,7 +7231,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="229" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="229" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_09.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7246,7 +7246,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="230" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="230" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_11.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7261,7 +7261,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="231" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="231" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_13.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7276,7 +7276,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="232" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="232" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_15.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7291,7 +7291,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="233" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="233" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_17.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7306,7 +7306,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="234" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="234" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_27.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7321,7 +7321,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="235" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="235" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_28.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7336,7 +7336,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="236" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="236" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_29.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7351,7 +7351,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="237" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="237" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_30.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7366,7 +7366,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="238" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="238" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_31.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7381,7 +7381,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="239" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="239" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_32.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7396,7 +7396,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="240" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="240" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_33.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7411,7 +7411,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="241" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="241" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_34.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7426,7 +7426,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="242" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="242" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_35.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7441,7 +7441,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="243" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="243" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_45.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7456,7 +7456,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="244" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="244" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_46.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7471,7 +7471,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="245" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="245" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_47.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7486,7 +7486,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="246" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="246" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_48.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7501,7 +7501,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="247" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="247" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_49.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7516,7 +7516,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="248" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="248" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_50.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7531,7 +7531,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="249" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="249" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_51.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7546,7 +7546,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="250" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="250" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_52.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7561,7 +7561,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="251" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="251" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_53.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7576,7 +7576,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="252" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="252" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_63.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7591,7 +7591,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="253" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="253" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_64.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7606,7 +7606,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="254" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="254" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_65.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7621,7 +7621,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="255" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="255" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_66.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7636,7 +7636,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="256" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="256" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_67.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7651,7 +7651,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="257" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="257" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_68.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7666,7 +7666,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="258" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="258" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_69.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7681,7 +7681,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="259" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="259" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_70.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7696,7 +7696,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="260" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="260" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_71.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7711,7 +7711,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="261" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="261" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_81.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7726,7 +7726,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="262" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="262" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_82.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7741,7 +7741,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="263" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="263" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_83.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7756,7 +7756,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="264" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="264" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_84.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7771,7 +7771,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="265" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="265" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_85.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7786,7 +7786,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="266" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="266" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_86.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7801,7 +7801,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="267" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="267" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_87.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7816,7 +7816,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="268" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="268" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_88.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7831,7 +7831,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="269" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="269" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_97.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7846,7 +7846,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="270" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="270" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_98.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7861,7 +7861,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="271" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="271" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_99.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7876,7 +7876,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="272" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="272" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_100.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7891,7 +7891,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="273" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="273" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_101.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7906,7 +7906,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="274" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="274" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_102.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7921,7 +7921,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="275" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="275" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_103.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7936,7 +7936,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="276" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="276" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_104.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7951,7 +7951,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="277" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="277" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_113.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7966,7 +7966,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="278" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="278" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_114.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7981,7 +7981,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="279" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="279" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_115.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -7996,7 +7996,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="280" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="280" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_116.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -8011,7 +8011,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="281" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="281" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_117.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -8026,7 +8026,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="282" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="282" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_118.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -8041,7 +8041,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="283" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="283" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_119.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -8056,7 +8056,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="284" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="284" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_120.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -8071,7 +8071,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="285" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="285" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_129.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -8086,7 +8086,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="286" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="286" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_130.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -8101,7 +8101,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="287" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="287" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_131.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -8116,7 +8116,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="288" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="288" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_132.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -8131,7 +8131,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="289" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="289" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_133.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -8146,7 +8146,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="290" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="290" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_134.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -8161,7 +8161,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="291" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="291" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_135.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -8176,7 +8176,7 @@ stop
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="292" Width="43" Height="26" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="292" Width="43" Height="26" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Ciemna Strona\data\Items\Ciemna_Strona_Items_136.png</FileName>
                       <OffsetX>0</OffsetX>
@@ -8195,9 +8195,9 @@ stop
               </SpriteFolder>
             </SubFolders>
             <Sprites>
-              <Sprite Slot="78" Width="36" Height="21" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+              <Sprite Slot="78" Width="36" Height="21" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                 <Source>
-                  <FileName>assets/gui/inv_item_cup.png</FileName>
+                  <FileName>C:\Ciemna Strona\data\Items\default\78.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>21</ImportHeight>
@@ -8206,13 +8206,13 @@ stop
                   <Frame>0</Frame>
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
-                  <ImportMethod>LeaveAsIs</ImportMethod>
+                  <ImportMethod>PaletteIndex0</ImportMethod>
                   <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="120" Width="36" Height="21" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+              <Sprite Slot="120" Width="36" Height="21" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                 <Source>
-                  <FileName>assets/gui/inv_item_cup_empty.png</FileName>
+                  <FileName>C:\Ciemna Strona\data\Items\default\120.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>21</ImportHeight>
@@ -8221,13 +8221,13 @@ stop
                   <Frame>0</Frame>
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
-                  <ImportMethod>LeaveAsIs</ImportMethod>
+                  <ImportMethod>PaletteIndex0</ImportMethod>
                   <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="121" Width="36" Height="21" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+              <Sprite Slot="121" Width="36" Height="21" ColorDepth="8" Resolution="Real" AlphaChannel="False">
                 <Source>
-                  <FileName>assets/gui/inv_item_keycard.png</FileName>
+                  <FileName>C:\Ciemna Strona\data\Items\default\121.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
                   <ImportHeight>21</ImportHeight>
@@ -8236,7 +8236,7 @@ stop
                   <Frame>0</Frame>
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
-                  <ImportMethod>LeaveAsIs</ImportMethod>
+                  <ImportMethod>PaletteIndex0</ImportMethod>
                   <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
@@ -8244,9 +8244,9 @@ stop
           </SpriteFolder>
         </SubFolders>
         <Sprites>
-          <Sprite Slot="0" Width="10" Height="6" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+          <Sprite Slot="0" Width="10" Height="6" ColorDepth="8" Resolution="Real" AlphaChannel="False">
             <Source>
-              <FileName>assets/gui/cup.gif</FileName>
+              <FileName>C:\Ciemna Strona\data\Custom_UI\0.png</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
               <ImportHeight>6</ImportHeight>
@@ -8255,13 +8255,13 @@ stop
               <Frame>0</Frame>
               <RemapToGamePalette>False</RemapToGamePalette>
               <RemapToRoomPalette>False</RemapToRoomPalette>
-              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportMethod>PaletteIndex0</ImportMethod>
               <ImportAlphaChannel>False</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="77" Width="15" Height="15" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+          <Sprite Slot="77" Width="15" Height="15" ColorDepth="8" Resolution="Real" AlphaChannel="False">
             <Source>
-              <FileName>assets/gui/cursor.png</FileName>
+              <FileName>C:\Ciemna Strona\data\Custom_UI\77.png</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
               <ImportHeight>15</ImportHeight>
@@ -8270,13 +8270,13 @@ stop
               <Frame>0</Frame>
               <RemapToGamePalette>False</RemapToGamePalette>
               <RemapToRoomPalette>False</RemapToRoomPalette>
-              <ImportMethod>LeaveAsIs</ImportMethod>
-              <ImportAlphaChannel>True</ImportAlphaChannel>
+              <ImportMethod>PaletteIndex0</ImportMethod>
+              <ImportAlphaChannel>False</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="79" Width="8" Height="8" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+          <Sprite Slot="79" Width="8" Height="8" ColorDepth="8" Resolution="Real" AlphaChannel="False">
             <Source>
-              <FileName>assets/gui/item_cup.png</FileName>
+              <FileName>C:\Ciemna Strona\data\Custom_UI\79.png</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
               <ImportHeight>8</ImportHeight>
@@ -8285,13 +8285,13 @@ stop
               <Frame>0</Frame>
               <RemapToGamePalette>False</RemapToGamePalette>
               <RemapToRoomPalette>False</RemapToRoomPalette>
-              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportMethod>PaletteIndex0</ImportMethod>
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
-          <Sprite Slot="118" Width="33" Height="48" ColorDepth="32" Resolution="Real" AlphaChannel="True">
+          <Sprite Slot="118" Width="33" Height="48" ColorDepth="8" Resolution="Real" AlphaChannel="False">
             <Source>
-              <FileName>assets/room2_door.png</FileName>
+              <FileName>C:\Ciemna Strona\data\Custom_UI\118.png</FileName>
               <OffsetX>0</OffsetX>
               <OffsetY>0</OffsetY>
               <ImportHeight>48</ImportHeight>
@@ -8300,7 +8300,7 @@ stop
               <Frame>0</Frame>
               <RemapToGamePalette>False</RemapToGamePalette>
               <RemapToRoomPalette>False</RemapToRoomPalette>
-              <ImportMethod>LeaveAsIs</ImportMethod>
+              <ImportMethod>PaletteIndex0</ImportMethod>
               <ImportAlphaChannel>True</ImportAlphaChannel>
             </Source>
           </Sprite>
@@ -8982,491 +8982,12 @@ stop
               </Loop>
             </Loops>
           </View>
-          <View>
-            <ID>4</ID>
-            <Name>vRoom002_DoorOpen</Name>
-            <Loops>
-              <Loop>
-                <ID>0</ID>
-                <RunNextLoop>False</RunNextLoop>
-                <Frames>
-                  <ViewFrame>
-                    <ID>0</ID>
-                    <Image>303</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>1</ID>
-                    <Image>304</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>2</ID>
-                    <Image>305</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>3</ID>
-                    <Image>306</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>4</ID>
-                    <Image>307</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>5</ID>
-                    <Image>308</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>6</ID>
-                    <Image>309</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>7</ID>
-                    <Image>310</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>8</ID>
-                    <Image>311</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>9</ID>
-                    <Image>312</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>10</ID>
-                    <Image>313</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>11</ID>
-                    <Image>314</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>12</ID>
-                    <Image>315</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>13</ID>
-                    <Image>316</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>14</ID>
-                    <Image>317</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>15</ID>
-                    <Image>318</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>16</ID>
-                    <Image>319</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>17</ID>
-                    <Image>320</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>18</ID>
-                    <Image>321</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>19</ID>
-                    <Image>322</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>20</ID>
-                    <Image>323</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>21</ID>
-                    <Image>324</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>22</ID>
-                    <Image>325</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>23</ID>
-                    <Image>326</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>24</ID>
-                    <Image>327</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>25</ID>
-                    <Image>328</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>26</ID>
-                    <Image>329</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>27</ID>
-                    <Image>330</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>28</ID>
-                    <Image>331</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>29</ID>
-                    <Image>332</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>30</ID>
-                    <Image>333</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>31</ID>
-                    <Image>334</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>32</ID>
-                    <Image>335</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>33</ID>
-                    <Image>336</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>34</ID>
-                    <Image>337</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>35</ID>
-                    <Image>338</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>36</ID>
-                    <Image>339</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>37</ID>
-                    <Image>340</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>38</ID>
-                    <Image>341</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>39</ID>
-                    <Image>342</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>40</ID>
-                    <Image>343</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>41</ID>
-                    <Image>344</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>42</ID>
-                    <Image>345</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>43</ID>
-                    <Image>346</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>44</ID>
-                    <Image>347</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>45</ID>
-                    <Image>348</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>46</ID>
-                    <Image>349</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>47</ID>
-                    <Image>350</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>48</ID>
-                    <Image>351</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>49</ID>
-                    <Image>352</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>50</ID>
-                    <Image>353</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>51</ID>
-                    <Image>354</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>52</ID>
-                    <Image>355</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>53</ID>
-                    <Image>356</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>54</ID>
-                    <Image>357</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>55</ID>
-                    <Image>358</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>56</ID>
-                    <Image>359</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>57</ID>
-                    <Image>360</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>58</ID>
-                    <Image>361</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>59</ID>
-                    <Image>362</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>60</ID>
-                    <Image>363</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>61</ID>
-                    <Image>364</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>62</ID>
-                    <Image>365</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>63</ID>
-                    <Image>366</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>64</ID>
-                    <Image>367</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>65</ID>
-                    <Image>368</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                  <ViewFrame>
-                    <ID>66</ID>
-                    <Image>369</Image>
-                    <Flipped>False</Flipped>
-                    <Delay>0</Delay>
-                    <Sound>0</Sound>
-                  </ViewFrame>
-                </Frames>
-              </Loop>
-            </Loops>
-          </View>
         </Views>
       </ViewFolder>
     </Views>
-    <DeletedViews />
+    <DeletedViews>
+      <ViewID>4</ViewID>
+    </DeletedViews>
     <Scripts>
       <ScriptFolder Name="Main">
         <SubFolders>
