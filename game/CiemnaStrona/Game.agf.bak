@@ -15,7 +15,7 @@
       <RoomTransition>Dissolve</RoomTransition>
       <MouseWheelEnabled>True</MouseWheelEnabled>
       <UseLowResCoordinatesInScript>False</UseLowResCoordinatesInScript>
-      <TurnBeforeFacing>False</TurnBeforeFacing>
+      <TurnBeforeFacing>True</TurnBeforeFacing>
       <TurnBeforeWalking>True</TurnBeforeWalking>
       <ScaleMovementSpeedWithMaskResolution>True</ScaleMovementSpeedWithMaskResolution>
       <SplitResources>1</SplitResources>
