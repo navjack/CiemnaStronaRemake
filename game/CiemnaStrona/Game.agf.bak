@@ -79,7 +79,7 @@
       <SaveGameFolderName xml:space="preserve">Ciemna Strona</SaveGameFolderName>
       <BinaryFilesInSourceControl>True</BinaryFilesInSourceControl>
       <AudioIndexer>81</AudioIndexer>
-      <BuildTargets>Windows</BuildTargets>
+      <BuildTargets xml:space="preserve">Windows, Linux</BuildTargets>
       <RenderAtScreenResolution>False</RenderAtScreenResolution>
     </Settings>
     <RuntimeSetup>
@@ -1005,7 +1005,7 @@
                 <Width>37</Width>
                 <Left>81</Left>
                 <Top>14</Top>
-                <ZOrder>0</ZOrder>
+                <ZOrder>5</ZOrder>
                 <ID>0</ID>
                 <Name>btnVerb1</Name>
                 <Clickable>True</Clickable>
@@ -1029,7 +1029,7 @@
                 <Width>37</Width>
                 <Left>81</Left>
                 <Top>44</Top>
-                <ZOrder>1</ZOrder>
+                <ZOrder>0</ZOrder>
                 <ID>1</ID>
                 <Name>btnVerb2</Name>
                 <Clickable>True</Clickable>
@@ -1053,7 +1053,7 @@
                 <Width>50</Width>
                 <Left>0</Left>
                 <Top>88</Top>
-                <ZOrder>2</ZOrder>
+                <ZOrder>6</ZOrder>
                 <ID>2</ID>
                 <Name>btnVerb3</Name>
                 <Clickable>True</Clickable>
@@ -1077,7 +1077,7 @@
                 <Width>37</Width>
                 <Left>44</Left>
                 <Top>14</Top>
-                <ZOrder>3</ZOrder>
+                <ZOrder>4</ZOrder>
                 <ID>3</ID>
                 <Name>btnVerb4</Name>
                 <Clickable>True</Clickable>
@@ -1101,7 +1101,7 @@
                 <Width>37</Width>
                 <Left>7</Left>
                 <Top>14</Top>
-                <ZOrder>4</ZOrder>
+                <ZOrder>3</ZOrder>
                 <ID>4</ID>
                 <Name>btnVerb5</Name>
                 <Clickable>True</Clickable>
@@ -1125,7 +1125,7 @@
                 <Width>37</Width>
                 <Left>44</Left>
                 <Top>44</Top>
-                <ZOrder>5</ZOrder>
+                <ZOrder>1</ZOrder>
                 <ID>5</ID>
                 <Name>btnVerb6</Name>
                 <Clickable>True</Clickable>
@@ -1149,7 +1149,7 @@
                 <Width>50</Width>
                 <Left>37</Left>
                 <Top>88</Top>
-                <ZOrder>6</ZOrder>
+                <ZOrder>7</ZOrder>
                 <ID>6</ID>
                 <Name>btnVerb7</Name>
                 <Clickable>True</Clickable>
@@ -1173,7 +1173,7 @@
                 <Width>50</Width>
                 <Left>75</Left>
                 <Top>88</Top>
-                <ZOrder>7</ZOrder>
+                <ZOrder>8</ZOrder>
                 <ID>7</ID>
                 <Name>btnVerb8</Name>
                 <Clickable>True</Clickable>
@@ -1197,7 +1197,7 @@
                 <Width>37</Width>
                 <Left>7</Left>
                 <Top>44</Top>
-                <ZOrder>8</ZOrder>
+                <ZOrder>2</ZOrder>
                 <ID>8</ID>
                 <Name>btnVerb9</Name>
                 <Clickable>True</Clickable>
@@ -1273,7 +1273,7 @@
           <GUIMain>
             <NormalGUI>
               <OnClick />
-              <Height>200</Height>
+              <Height>256</Height>
               <Width>320</Width>
               <Left>0</Left>
               <Top>0</Top>
@@ -1514,7 +1514,7 @@
                 <BackgroundImage>0</BackgroundImage>
                 <MinValue>0</MinValue>
                 <MaxValue>100</MaxValue>
-                <Value>80</Value>
+                <Value>100</Value>
                 <Height>12</Height>
                 <Locked>False</Locked>
                 <Width>120</Width>
@@ -1551,7 +1551,7 @@
                 <BackgroundImage>0</BackgroundImage>
                 <MinValue>0</MinValue>
                 <MaxValue>100</MaxValue>
-                <Value>90</Value>
+                <Value>100</Value>
                 <Height>13</Height>
                 <Locked>False</Locked>
                 <Width>120</Width>
@@ -9178,8 +9178,8 @@ stop
                 <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\mod\cs1.mod</SourceFileName>
                 <ScriptName>aCs1</ScriptName>
                 <Index>1</Index>
-                <Type>1</Type>
-                <BundlingType>InGameEXE</BundlingType>
+                <Type>2</Type>
+                <BundlingType>InSeparateVOX</BundlingType>
                 <FileType>MOD</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
@@ -9191,8 +9191,8 @@ stop
                 <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\mod\cs2.mod</SourceFileName>
                 <ScriptName>aCs2</ScriptName>
                 <Index>2</Index>
-                <Type>1</Type>
-                <BundlingType>InGameEXE</BundlingType>
+                <Type>2</Type>
+                <BundlingType>InSeparateVOX</BundlingType>
                 <FileType>MOD</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
@@ -9204,8 +9204,8 @@ stop
                 <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\mod\cs3.mod</SourceFileName>
                 <ScriptName>aCs3</ScriptName>
                 <Index>3</Index>
-                <Type>1</Type>
-                <BundlingType>InGameEXE</BundlingType>
+                <Type>2</Type>
+                <BundlingType>InSeparateVOX</BundlingType>
                 <FileType>MOD</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
@@ -9217,8 +9217,8 @@ stop
                 <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\mod\cs4.mod</SourceFileName>
                 <ScriptName>aCs4</ScriptName>
                 <Index>4</Index>
-                <Type>1</Type>
-                <BundlingType>InGameEXE</BundlingType>
+                <Type>2</Type>
+                <BundlingType>InSeparateVOX</BundlingType>
                 <FileType>MOD</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
@@ -9230,8 +9230,8 @@ stop
                 <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\mod\cs5.mod</SourceFileName>
                 <ScriptName>aCs5</ScriptName>
                 <Index>5</Index>
-                <Type>1</Type>
-                <BundlingType>InGameEXE</BundlingType>
+                <Type>2</Type>
+                <BundlingType>InSeparateVOX</BundlingType>
                 <FileType>MOD</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
@@ -9243,8 +9243,8 @@ stop
                 <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\mod\cs6.mod</SourceFileName>
                 <ScriptName>aCs6</ScriptName>
                 <Index>6</Index>
-                <Type>1</Type>
-                <BundlingType>InGameEXE</BundlingType>
+                <Type>2</Type>
+                <BundlingType>InSeparateVOX</BundlingType>
                 <FileType>MOD</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
@@ -9256,8 +9256,8 @@ stop
                 <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\mod\cs7(intro).mod</SourceFileName>
                 <ScriptName>aCs7_intro_</ScriptName>
                 <Index>7</Index>
-                <Type>1</Type>
-                <BundlingType>InGameEXE</BundlingType>
+                <Type>2</Type>
+                <BundlingType>InSeparateVOX</BundlingType>
                 <FileType>MOD</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
@@ -9269,8 +9269,8 @@ stop
                 <SourceFileName xml:space="preserve">C:\Ciemna Strona\data\music\mod\cs8(end).mod</SourceFileName>
                 <ScriptName>aCs8_end_</ScriptName>
                 <Index>8</Index>
-                <Type>1</Type>
-                <BundlingType>InGameEXE</BundlingType>
+                <Type>2</Type>
+                <BundlingType>InSeparateVOX</BundlingType>
                 <FileType>MOD</FileType>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
@@ -9280,10 +9280,10 @@ stop
             </AudioClips>
             <AudioClipFolder>
               <DefaultVolume>100</DefaultVolume>
-              <DefaultPriority>Inherit</DefaultPriority>
-              <DefaultRepeat>Inherit</DefaultRepeat>
-              <DefaultBundlingType>InGameEXE</DefaultBundlingType>
-              <DefaultType>1</DefaultType>
+              <DefaultPriority>VeryHigh</DefaultPriority>
+              <DefaultRepeat>True</DefaultRepeat>
+              <DefaultBundlingType>InSeparateVOX</DefaultBundlingType>
+              <DefaultType>2</DefaultType>
             </AudioClipFolder>
           </AudioClipFolder>
         </SubFolders>
@@ -9310,7 +9310,7 @@ stop
         <TypeID>2</TypeID>
         <Name>Music</Name>
         <MaxChannels>1</MaxChannels>
-        <VolumeReductionWhileSpeechPlaying>30</VolumeReductionWhileSpeechPlaying>
+        <VolumeReductionWhileSpeechPlaying>0</VolumeReductionWhileSpeechPlaying>
         <CrossfadeClips>No</CrossfadeClips>
         <BackwardsCompatibilityType>True</BackwardsCompatibilityType>
       </AudioClipType>
