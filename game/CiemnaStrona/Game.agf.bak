@@ -1578,8 +1578,8 @@
                 <ID>10</ID>
                 <Name>lblOptionsStyle</Name>
                 <Clickable>True</Clickable>
-                <Enabled>True</Enabled>
-                <Visible>True</Visible>
+                <Enabled>False</Enabled>
+                <Visible>False</Visible>
               </GUILabel>
               <GUISlider>
                 <OnChange>btnOptions_OnSliderChange</OnChange>
@@ -1598,8 +1598,8 @@
                 <ID>11</ID>
                 <Name>sldOptionsStyle</Name>
                 <Clickable>True</Clickable>
-                <Enabled>True</Enabled>
-                <Visible>True</Visible>
+                <Enabled>False</Enabled>
+                <Visible>False</Visible>
               </GUISlider>
               <GUIButton>
                 <OnClick>btnOptions_OnClick</OnClick>
@@ -1639,8 +1639,8 @@
                 <ID>13</ID>
                 <Name>lblOptionsGuiClassic</Name>
                 <Clickable>True</Clickable>
-                <Enabled>True</Enabled>
-                <Visible>True</Visible>
+                <Enabled>False</Enabled>
+                <Visible>False</Visible>
               </GUILabel>
               <GUILabel>
                 <TextAlignment>Left</TextAlignment>
@@ -1656,8 +1656,8 @@
                 <ID>14</ID>
                 <Name>lblOptionsGuiModern</Name>
                 <Clickable>True</Clickable>
-                <Enabled>True</Enabled>
-                <Visible>True</Visible>
+                <Enabled>False</Enabled>
+                <Visible>False</Visible>
               </GUILabel>
             </Controls>
           </GUIMain>
