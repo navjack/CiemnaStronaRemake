@@ -3531,6 +3531,332 @@ return
               </DialogOption>
             </DialogOptions>
           </Dialog>
+          <Dialog>
+            <ID>6</ID>
+            <Name>dTerminalFinal</Name>
+            <ShowTextParser>False</ShowTextParser>
+            <Script><![CDATA[//SOURCE:C:\Ciemna Strona\data\TerminalDialog_Designer.dlg.xml
+@S  // Start
+return
+
+
+
+@1  // Computer! Give...
+Terminal: Good morning, Kurt!
+Terminal: What do you want?
+Terminal: I recommend toast and orange juice
+option-on 2
+option-off 1
+return
+
+
+
+@2  // Look, I'm not hungry...
+Terminal: Hibernation is a very tiring process.
+Terminal: I think you should eat something...
+option-on 3
+option-off 2
+return
+
+
+
+@3  // Shut up! My wife has been eaten...
+Kurt: And you're offering me food???
+Kurt: Are you blind?.. or something...
+Terminal: Eaten? Mr. Kurt ate Mrs. Eliza???
+Terminal: Oh, that's terrible...
+Terminal: Mrs. Eliza was such an undemanding customer....
+Terminal: Not like you...
+option-on 4
+option-off 3
+return
+
+
+
+@4  // Oh... Really, shut up!
+Kurt: And how dare you judge me?!
+Kurt: What you serve out of shame should cease to exist!!
+Kurt: Yeah... Yeah... Eliza had no qualms about it...
+Kurt: But the taste of it... Anyway, never mind...
+Terminal: I'm sorry, Mr. Kurt!
+Terminal: But how could you eat Mrs. Eliza?
+option-off 4
+return
+
+
+
+@5  // Hey... You there...
+Terminal: What ... Who me?!
+option-on 6
+option-off 5
+return
+
+
+
+@6  // Wow... Again... Yes! You!
+Terminal: Ah! Are you hungry, Mr. Kurt?
+Terminal: I'm at your service!
+Terminal: What are we going to order today??
+option-on 7
+option-off 6
+return
+
+
+
+@7  // Nothing, you little idiot...
+Kurt: I don't even know why I'm talking to you...
+Kurt: You probably didn't see or hear anything?
+Terminal: But I can hear and see you Mr. Kurt!
+Terminal: You look verile!!
+Terminal: And as for your eating habits...
+option-on 8
+option-off 7
+return
+
+
+
+@8  // Thank you... uhhh... What??
+Kurt: How do I look??
+Kurt: Wow... What a piece of junk!!
+Kurt: Eliza and her goddamn cheapness!!!
+Kurt: To buy such a scrap ship!!!
+Kurt: No! But that is over with now!
+Kurt: I'll buy myself the most disgustingly luxurious model
+Kurt: I wonder what they be able to offer me!!!
+Kurt: He... He... He...
+option-off 8
+return
+
+
+
+@9  // Terminall! What happened here?
+Terminal: Terminal?? What?? A generic terminal??
+Terminal: I'm THE Kitchen Terminal!
+Terminal: Not a common terminal!
+option-on 10
+option-off 9
+return
+
+
+
+@10  // Ouch...
+Terminal: Hurt??
+Terminal: If you were damaged during hibernation
+Terminal: Please go to the medical room!
+option-on 11
+option-off 10
+return
+
+
+
+@11  // Nooo!! I'm about to...
+Kurt: I'll fucking kill it!
+Kurt: It's acting the same way all the time!
+Kurt: The complaints didn't help...
+Kurt: The manufacturer says it's not a defect...
+Kurt: And Eliza loved it...
+Kurt: "Oh, Kurt... It's really funny..."
+Kurt: How fucking funny...
+Terminal: Ah! You're hungry!
+Terminal: I recommend toast and orange juice!
+option-on 12
+option-off 11
+return
+
+
+
+@12  // Shut up!!
+Terminal: But... I...
+Terminal: I'm sorry, Mr. Kurt...
+option-off 12
+return
+
+
+
+@13  // Pass the toast.
+Terminal: Ah! You're hungry, Mr. Kurt!
+Terminal: Oh, how I've been waiting for this!!!
+Terminal: I will serve you right away!!!
+Terminal: I'll serve you some delicious toast...
+option-on 14
+option-off 13
+return
+
+
+
+@14  // He... He... Stop!!
+Kurt: "Delicious toast"!!!
+Kurt: I know your delicious toast!!!
+Kurt: It's not delicious toast, it's toxic toast...
+Kurt: Hazardous toast...
+Kurt: Nuclear toast...
+Kurt: ? Nuclear Toast ?
+Kurt: ? It glows ?
+Kurt: ? It moves... ?
+Kurt: ? And it is life-threatening ?
+Terminal: Excuse me... I'm supposed to make you some delicious toast.
+Terminal: Don't you want me to make you some delicious toast?
+Terminal: After hibernation, it is recommended to eat something nutritious.
+option-on 15
+option-off 14
+return
+
+
+
+@15  // N-O!!!
+Kurt: Don't do anything to me!!!
+Kurt: The very thought of eating something makes me sick...
+Kurt: I don't want to puke all over the floor...
+Kurt: Besides, I don't know anyone who's hungry.
+Kurt: After hibernation...
+Kurt: Except Eliza, of course...
+Terminal: No?? You don't want to order toast??
+option-on 16
+option-off 15
+return
+
+
+
+@16  // One... Two... Three... N-O!!!
+Kurt: Kurt's not hungry!!!
+Kurt: Do you understand me?!
+Terminal: You don't have to yell like that...
+Terminal: I understand you well!
+Terminal: You're not hungry...
+Terminal: Too bad..
+Terminal: But why get so worked up about it?
+option-off 16
+return
+
+
+
+@17  // I don't want to talk to you...
+option-on 1
+option-on 5
+option-on 9
+option-on 13
+option-off 2
+option-off 3
+option-off 4
+option-off 6
+option-off 7
+option-off 8
+option-off 10
+option-off 11
+option-off 12
+option-off 14
+option-off 15
+option-off 16
+stop
+
+
+
+]]></Script>
+            <DialogOptions>
+              <DialogOption>
+                <ID>1</ID>
+                <Text xml:space="preserve">Computer! Give...</Text>
+                <Show>True</Show>
+                <Say>True</Say>
+              </DialogOption>
+              <DialogOption>
+                <ID>2</ID>
+                <Text xml:space="preserve">Look, I'm not hungry...</Text>
+                <Show>False</Show>
+                <Say>True</Say>
+              </DialogOption>
+              <DialogOption>
+                <ID>3</ID>
+                <Text xml:space="preserve">Shut up! My wife has been eaten...</Text>
+                <Show>False</Show>
+                <Say>True</Say>
+              </DialogOption>
+              <DialogOption>
+                <ID>4</ID>
+                <Text xml:space="preserve">Oh... Really, shut up!</Text>
+                <Show>False</Show>
+                <Say>True</Say>
+              </DialogOption>
+              <DialogOption>
+                <ID>5</ID>
+                <Text xml:space="preserve">Hey... You there...</Text>
+                <Show>True</Show>
+                <Say>True</Say>
+              </DialogOption>
+              <DialogOption>
+                <ID>6</ID>
+                <Text xml:space="preserve">Wow... Again... Yes! You!</Text>
+                <Show>False</Show>
+                <Say>True</Say>
+              </DialogOption>
+              <DialogOption>
+                <ID>7</ID>
+                <Text xml:space="preserve">Nothing, you little idiot...</Text>
+                <Show>False</Show>
+                <Say>True</Say>
+              </DialogOption>
+              <DialogOption>
+                <ID>8</ID>
+                <Text xml:space="preserve">Thank you... uhhh... What??</Text>
+                <Show>False</Show>
+                <Say>True</Say>
+              </DialogOption>
+              <DialogOption>
+                <ID>9</ID>
+                <Text xml:space="preserve">Terminall! What happened here?</Text>
+                <Show>True</Show>
+                <Say>True</Say>
+              </DialogOption>
+              <DialogOption>
+                <ID>10</ID>
+                <Text>Ouch...</Text>
+                <Show>False</Show>
+                <Say>True</Say>
+              </DialogOption>
+              <DialogOption>
+                <ID>11</ID>
+                <Text xml:space="preserve">Nooo!! I'm about to...</Text>
+                <Show>False</Show>
+                <Say>True</Say>
+              </DialogOption>
+              <DialogOption>
+                <ID>12</ID>
+                <Text xml:space="preserve">Shut up!!</Text>
+                <Show>False</Show>
+                <Say>True</Say>
+              </DialogOption>
+              <DialogOption>
+                <ID>13</ID>
+                <Text xml:space="preserve">Pass the toast.</Text>
+                <Show>True</Show>
+                <Say>True</Say>
+              </DialogOption>
+              <DialogOption>
+                <ID>14</ID>
+                <Text xml:space="preserve">He... He... Stop!!</Text>
+                <Show>False</Show>
+                <Say>True</Say>
+              </DialogOption>
+              <DialogOption>
+                <ID>15</ID>
+                <Text>N-O!!!</Text>
+                <Show>False</Show>
+                <Say>True</Say>
+              </DialogOption>
+              <DialogOption>
+                <ID>16</ID>
+                <Text xml:space="preserve">One... Two... Three... N-O!!!</Text>
+                <Show>False</Show>
+                <Say>True</Say>
+              </DialogOption>
+              <DialogOption>
+                <ID>17</ID>
+                <Text xml:space="preserve">I don't want to talk to you...</Text>
+                <Show>True</Show>
+                <Say>True</Say>
+              </DialogOption>
+            </DialogOptions>
+          </Dialog>
         </Dialogs>
       </DialogFolder>
     </Dialogs>
@@ -9716,6 +10042,9 @@ return
   <Component Name="AudioNew" />
   <Component Name="GlobalVariables" />
   <Component Name="Scripts" />
+  <Component Name="DialogDesignerComponent">
+    <DialogDesignerPath>C:\Program Files (x86)\Adventure Game Studio 3.5.1\Dialog Designer.exe</DialogDesignerPath>
+  </Component>
   <Component Name="Plugins" />
   <Component Name="Rooms" />
   <Component Name="Translations" />

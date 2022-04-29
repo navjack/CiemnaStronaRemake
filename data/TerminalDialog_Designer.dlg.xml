@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dialog version="1.2" name="dTerminalFinal" auto-option-off="True">
+  <options>
+    <option text="Start" show="False" say="False">
+      <script><![CDATA[]]></script>
+      <options>
+        <option text="Computer! Give..." show="True" say="True">
+          <script><![CDATA[Terminal: Good morning, Kurt!
+Terminal: What do you want?
+Terminal: I recommend toast and orange juice
+#on 2]]></script>
+          <options>
+            <option text="Look, I'm not hungry..." show="False" say="True">
+              <script><![CDATA[Terminal: Hibernation is a very tiring process.
+Terminal: I think you should eat something...
+#on 3]]></script>
+              <options>
+                <option text="Shut up! My wife has been eaten..." show="False" say="True">
+                  <script><![CDATA[Kurt: And you're offering me food???
+Kurt: Are you blind?.. or something...
+Terminal: Eaten? Mr. Kurt ate Mrs. Eliza???
+Terminal: Oh, that's terrible...
+Terminal: Mrs. Eliza was such an undemanding customer....
+Terminal: Not like you...
+#on 4]]></script>
+                  <options>
+                    <option text="Oh... Really, shut up!" show="False" say="True">
+                      <script><![CDATA[Kurt: And how dare you judge me?!
+Kurt: What you serve out of shame should cease to exist!!
+Kurt: Yeah... Yeah... Eliza had no qualms about it...
+Kurt: But the taste of it... Anyway, never mind...
+Terminal: I'm sorry, Mr. Kurt!
+Terminal: But how could you eat Mrs. Eliza?]]></script>
+                    </option>
+                  </options>
+                </option>
+              </options>
+            </option>
+          </options>
+        </option>
+        <option text="Hey... You there..." show="True" say="True">
+          <script><![CDATA[Terminal: What ... Who me?!
+#on 6]]></script>
+          <options>
+            <option text="Wow... Again... Yes! You!" show="False" say="True">
+              <script><![CDATA[Terminal: Ah! Are you hungry, Mr. Kurt?
+Terminal: I'm at your service!
+Terminal: What are we going to order today??
+#on 7]]></script>
+              <options>
+                <option text="Nothing, you little idiot..." show="False" say="True">
+                  <script><![CDATA[Kurt: I don't even know why I'm talking to you...
+Kurt: You probably didn't see or hear anything?
+Terminal: But I can hear and see you Mr. Kurt!
+Terminal: You look verile!!
+Terminal: And as for your eating habits...
+#on 8]]></script>
+                  <options>
+                    <option text="Thank you... uhhh... What??" show="False" say="True">
+                      <script><![CDATA[Kurt: How do I look??
+Kurt: Wow... What a piece of junk!!
+Kurt: Eliza and her goddamn cheapness!!!
+Kurt: To buy such a scrap ship!!!
+Kurt: No! But that is over with now!
+Kurt: I'll buy myself the most disgustingly luxurious model
+Kurt: I wonder what they be able to offer me!!!
+Kurt: He... He... He...]]></script>
+                    </option>
+                  </options>
+                </option>
+              </options>
+            </option>
+          </options>
+        </option>
+        <option text="Terminall! What happened here?" show="True" say="True">
+          <script><![CDATA[Terminal: Terminal?? What?? A generic terminal??
+Terminal: I'm THE Kitchen Terminal!
+Terminal: Not a common terminal!
+#on 10]]></script>
+          <options>
+            <option text="Ouch..." show="False" say="True">
+              <script><![CDATA[Terminal: Hurt??
+Terminal: If you were damaged during hibernation
+Terminal: Please go to the medical room!
+#on 11]]></script>
+              <options>
+                <option text="Nooo!! I'm about to..." show="False" say="True">
+                  <script><![CDATA[Kurt: I'll fucking kill it!
+Kurt: It's acting the same way all the time!
+Kurt: The complaints didn't help...
+Kurt: The manufacturer says it's not a defect...
+Kurt: And Eliza loved it...
+Kurt: "Oh, Kurt... It's really funny..."
+Kurt: How fucking funny...
+Terminal: Ah! You're hungry!
+Terminal: I recommend toast and orange juice!
+#on 12]]></script>
+                  <options>
+                    <option text="Shut up!!" show="False" say="True">
+                      <script><![CDATA[Terminal: But... I...
+Terminal: I'm sorry, Mr. Kurt...]]></script>
+                    </option>
+                  </options>
+                </option>
+              </options>
+            </option>
+          </options>
+        </option>
+        <option text="Pass the toast." show="True" say="True">
+          <script><![CDATA[Terminal: Ah! You're hungry, Mr. Kurt!
+Terminal: Oh, how I've been waiting for this!!!
+Terminal: I will serve you right away!!!
+Terminal: I'll serve you some delicious toast...
+#on 14]]></script>
+          <options>
+            <option text="He... He... Stop!!" show="False" say="True">
+              <script><![CDATA[Kurt: "Delicious toast"!!!
+Kurt: I know your delicious toast!!!
+Kurt: It's not delicious toast, it's toxic toast...
+Kurt: Hazardous toast...
+Kurt: Nuclear toast...
+Kurt: ♪ Nuclear Toast ♪
+Kurt: ♪ It glows ♪
+Kurt: ♪ It moves... ♪
+Kurt: ♪ And it is life-threatening ♪
+Terminal: Excuse me... I'm supposed to make you some delicious toast.
+Terminal: Don't you want me to make you some delicious toast?
+Terminal: After hibernation, it is recommended to eat something nutritious.
+#on 15]]></script>
+              <options>
+                <option text="N-O!!!" show="False" say="True">
+                  <script><![CDATA[Kurt: Don't do anything to me!!!
+Kurt: The very thought of eating something makes me sick...
+Kurt: I don't want to puke all over the floor...
+Kurt: Besides, I don't know anyone who's hungry.
+Kurt: After hibernation...
+Kurt: Except Eliza, of course...
+Terminal: No?? You don't want to order toast??
+#on 16]]></script>
+                  <options>
+                    <option text="One... Two... Three... N-O!!!" show="False" say="True">
+                      <script><![CDATA[Kurt: Kurt's not hungry!!!
+Kurt: Do you understand me?!
+Terminal: You don't have to yell like that...
+Terminal: I understand you well!
+Terminal: You're not hungry...
+Terminal: Too bad..
+Terminal: But why get so worked up about it?]]></script>
+                    </option>
+                  </options>
+                </option>
+              </options>
+            </option>
+          </options>
+        </option>
+        <option text="I don't want to talk to you..." show="True" say="True">
+          <script><![CDATA[$leave-on
+#on 1 5 9 13
+#off 2 3 4 6 7 8 10 11 12 14 15 16
+stop]]></script>
+        </option>
+      </options>
+    </option>
+  </options>
+  <variables />
+</dialog>
